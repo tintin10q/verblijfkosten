@@ -6,6 +6,7 @@ When you declare these costs, you do not hand in receipts for every meal and oth
 Instead, you declare a number of meals and hours which are reimbursed at a fixed rate that depends on the country and region you visited. 
 Accommodation is reimbursed on receipts, up to a maximum per night that also depends on the region.
 Both amounts are set in [10.3 of the CAO Rijk](https://www.caorijk.nl/cao-rijk/1.-algemeen/hoofdstuk-10/dienstreizen-buitenland) in the *Tarieflijst verblijfkosten buitenlandse dienstreizen*.
+
 If you simply declare everything you are entitled to, you can get back more than you actually spent.
 Therefore, this tool calculates how many meals and nights to declare so that the reimbursement matches what you actually spent.
 
@@ -23,7 +24,7 @@ Or with [pipx](https://pipx.pypa.io/):
 pipx run verblijfkosten
 ```
 
-Or from a clone of this repository:
+Or from a clone of [the repository](https://git.liacs.nl/caboqmj1/verblijfkosten):
 
 ```shell
 ./verblijfkosten.py
@@ -32,7 +33,7 @@ Or from a clone of this repository:
 The program asks for everything it needs. If you already know some of the answers, pass them as flags, and it will only ask for the rest:
 
 ```shell
-uvx verblijfkosten --country Germany --nights 3 --logies-cost 420 --costs 137
+uvx verblijfkosten --country Duitsland --nights 3 --logies-cost 420 --costs 137
 ```
 
 ## Flags
