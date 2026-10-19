@@ -51,5 +51,6 @@ uvx verblijfkosten --country Duitsland --nights 3 --logies-cost 420 --costs 137
 ## Freshness of reimbursement data
 
 The rates per country and region are revised regularly (usually twice a year), but you do not need to update anything yourself.
-The tool downloads the PDF with the rates from the Leiden University website when it is missing or has changed, so you always calculate with the current rates.
+The tool downloads [the PDF](https://www.medewerkers.universiteitleiden.nl/binaries/content/assets/ul2staff/po/arbeidsvoorwaarden/tarieflijst-verblijfkosten-buitenlandse-dienstreizen.pdf) 
+with the rates from the Leiden University website when it is missing or has changed, so you always calculate with the current rates.
 Use `--force-download` to download it again manually.
