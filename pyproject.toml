@@ -9,6 +9,8 @@ dependencies = [
     "python-constraint2>=2.7.3",
 ]
 authors = [{name = "Quinten Cabo", email = "q.m.j.cabo@liacs.leidenuniv.nl"}]
+license = "MIT"
+license-files = ["LICENSE"]
 
 [build-system]
 requires = ["hatchling"]
