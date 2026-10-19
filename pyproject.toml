@@ -1,6 +1,6 @@
 [project]
 name = "verblijfkosten"
-version = "0.1.0"
+version = "0.1.0.post1"
 description = "Easiliy calculate the optimal number of dinners, lunches, breakfast and hours you need to declare to get your verblijfkosten back."
 readme = "README.md"
 requires-python = ">=3.11"
