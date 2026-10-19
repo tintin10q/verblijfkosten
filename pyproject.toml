@@ -12,6 +12,9 @@ authors = [{name = "Quinten Cabo", email = "q.m.j.cabo@liacs.leidenuniv.nl"}]
 license = "MIT"
 license-files = ["LICENSE"]
 
+[project.urls]
+Repository = "https://git.liacs.nl/caboqmj1/verblijfkosten"
+
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
