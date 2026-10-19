@@ -1,0 +1,4967 @@
+# Tarieflijst verblijfkosten buitenlandse dienstreizen.
+# Bron: https://www.medewerkers.universiteitleiden.nl/binaries/content/assets/ul2staff/po/arbeidsvoorwaarden/tarieflijst-verblijfkosten-buitenlandse-dienstreizen.pdf
+# Gedownload op 2026-10-19
+# logies/ontbijt/lunch/diner = bedrag per dag, urencomp = bedrag per uur.
+
+valuta = "EUR"
+geldig_vanaf = 2026-07-01
+
+[[tarief]]
+land = "Afghanistan"
+regio = "Kabul"
+logies = 120.00
+ontbijt = 6.84
+lunch = 11.40
+diner = 18.24
+urencomp = 0.86
+
+[[tarief]]
+land = "Afghanistan"
+regio = "Overig"
+logies = 60.00
+ontbijt = 3.24
+lunch = 5.40
+diner = 8.64
+urencomp = 0.41
+
+[[tarief]]
+land = "Albanië"
+regio = "Overig"
+logies = 199.00
+ontbijt = 5.16
+lunch = 8.60
+diner = 13.76
+urencomp = 0.65
+
+[[tarief]]
+land = "Albanië"
+regio = "Tirana"
+logies = 181.00
+ontbijt = 13.32
+lunch = 22.20
+diner = 35.52
+urencomp = 1.67
+
+[[tarief]]
+land = "Algerije"
+regio = "Algiers"
+logies = 194.00
+ontbijt = 22.20
+lunch = 37.00
+diner = 59.20
+urencomp = 2.78
+
+[[tarief]]
+land = "Algerije"
+regio = "Overig"
+logies = 168.00
+ontbijt = 11.28
+lunch = 18.80
+diner = 30.08
+urencomp = 1.41
+
+[[tarief]]
+land = "Andorra"
+regio = "Andorra"
+logies = 121.00
+ontbijt = 13.32
+lunch = 22.20
+diner = 35.52
+urencomp = 1.67
+
+[[tarief]]
+land = "Angola"
+regio = "Luanda"
+logies = 307.00
+ontbijt = 9.60
+lunch = 16.00
+diner = 25.60
+urencomp = 1.20
+
+[[tarief]]
+land = "Angola"
+regio = "Overig"
+logies = 107.00
+ontbijt = 5.28
+lunch = 8.80
+diner = 14.08
+urencomp = 0.66
+
+[[tarief]]
+land = "Anguilla"
+regio = "Anguilla"
+logies = 271.00
+ontbijt = 18.36
+lunch = 30.60
+diner = 48.96
+urencomp = 2.30
+
+[[tarief]]
+land = "Antigua en Barbuda"
+regio = "Antigua"
+logies = 359.00
+ontbijt = 12.48
+lunch = 20.80
+diner = 33.28
+urencomp = 1.56
+
+[[tarief]]
+land = "Argentinië"
+regio = "Buenos Aires"
+logies = 192.00
+ontbijt = 13.56
+lunch = 22.60
+diner = 36.16
+urencomp = 1.70
+
+[[tarief]]
+land = "Argentinië"
+regio = "Overig"
+logies = 348.00
+ontbijt = 10.08
+lunch = 16.80
+diner = 26.88
+urencomp = 1.26
+
+[[tarief]]
+land = "Armenië"
+regio = "Overig"
+logies = 134.00
+ontbijt = 6.72
+lunch = 11.20
+diner = 17.92
+urencomp = 0.84
+
+[[tarief]]
+land = "Armenië"
+regio = "Yerevan"
+logies = 229.00
+ontbijt = 15.48
+lunch = 25.80
+diner = 41.28
+urencomp = 1.94
+
+[[tarief]]
+land = "Aruba"
+regio = "Aruba"
+logies = 237.00
+ontbijt = 27.84
+lunch = 46.40
+diner = 74.24
+urencomp = 3.48
+
+[[tarief]]
+land = "Australië"
+regio = "Canberra, Melbourne en Sydney"
+logies = 172.00
+ontbijt = 11.16
+lunch = 18.60
+diner = 29.76
+urencomp = 1.40
+
+[[tarief]]
+land = "Australië"
+regio = "Overig"
+logies = 169.00
+ontbijt = 10.44
+lunch = 17.40
+diner = 27.84
+urencomp = 1.31
+
+[[tarief]]
+land = "Azerbeidzjan"
+regio = "Bakoe"
+logies = 312.00
+ontbijt = 12.72
+lunch = 21.20
+diner = 33.92
+urencomp = 1.59
+
+[[tarief]]
+land = "Azerbeidzjan"
+regio = "Overig"
+logies = 103.00
+ontbijt = 6.36
+lunch = 10.60
+diner = 16.96
+urencomp = 0.80
+
+[[tarief]]
+land = "Bahama's"
+regio = "Bahama's"
+logies = 359.00
+ontbijt = 16.20
+lunch = 27.00
+diner = 43.20
+urencomp = 2.03
+
+[[tarief]]
+land = "Bahrein"
+regio = "Manama"
+logies = 356.00
+ontbijt = 22.08
+lunch = 36.80
+diner = 58.88
+urencomp = 2.76
+
+[[tarief]]
+land = "Bangladesh"
+regio = "Dhaka"
+logies = 172.00
+ontbijt = 14.28
+lunch = 23.80
+diner = 38.08
+urencomp = 1.79
+
+[[tarief]]
+land = "Bangladesh"
+regio = "Overig"
+logies = 197.00
+ontbijt = 7.20
+lunch = 12.00
+diner = 19.20
+urencomp = 0.90
+
+[[tarief]]
+land = "Barbados"
+regio = "Barbados"
+logies = 329.00
+ontbijt = 14.88
+lunch = 24.80
+diner = 39.68
+urencomp = 1.86
+
+[[tarief]]
+land = "Belarus"
+regio = "Minsk"
+logies = 182.00
+ontbijt = 11.28
+lunch = 18.80
+diner = 30.08
+urencomp = 1.41
+
+[[tarief]]
+land = "Belarus"
+regio = "Overig"
+logies = 124.00
+ontbijt = 6.36
+lunch = 10.60
+diner = 16.96
+urencomp = 0.80
+
+[[tarief]]
+land = "België"
+regio = "Brussel"
+logies = 242.00
+ontbijt = 16.44
+lunch = 27.40
+diner = 43.84
+urencomp = 2.06
+
+[[tarief]]
+land = "België"
+regio = "Overig"
+logies = 163.00
+ontbijt = 10.56
+lunch = 17.60
+diner = 28.16
+urencomp = 1.32
+
+[[tarief]]
+land = "Belize"
+regio = "Belize-Stad"
+logies = 166.00
+ontbijt = 7.20
+lunch = 12.00
+diner = 19.20
+urencomp = 0.90
+
+[[tarief]]
+land = "Belize"
+regio = "Overig"
+logies = 366.00
+ontbijt = 10.08
+lunch = 16.80
+diner = 26.88
+urencomp = 1.26
+
+[[tarief]]
+land = "Benin"
+regio = "Cotonou"
+logies = 208.00
+ontbijt = 10.32
+lunch = 17.20
+diner = 27.52
+urencomp = 1.29
+
+[[tarief]]
+land = "Benin"
+regio = "Overig"
+logies = 101.00
+ontbijt = 5.76
+lunch = 9.60
+diner = 15.36
+urencomp = 0.72
+
+[[tarief]]
+land = "Bermuda"
+regio = "Bermuda"
+logies = 422.00
+ontbijt = 31.08
+lunch = 51.80
+diner = 82.88
+urencomp = 3.89
+
+[[tarief]]
+land = "Bhutan"
+regio = "Overig"
+logies = 147.00
+ontbijt = 4.44
+lunch = 7.40
+diner = 11.84
+urencomp = 0.56
+
+[[tarief]]
+land = "Bhutan"
+regio = "Thimphu"
+logies = 229.00
+ontbijt = 8.88
+lunch = 14.80
+diner = 23.68
+urencomp = 1.11
+
+[[tarief]]
+land = "Bolivia"
+regio = "La Paz"
+logies = 98.00
+ontbijt = 5.40
+lunch = 9.00
+diner = 14.40
+urencomp = 0.68
+
+[[tarief]]
+land = "Bolivia"
+regio = "Overig"
+logies = 204.00
+ontbijt = 4.44
+lunch = 7.40
+diner = 11.84
+urencomp = 0.56
+
+[[tarief]]
+land = "Bonaire"
+regio = "Bonaire"
+logies = 182.00
+ontbijt = 13.92
+lunch = 23.20
+diner = 37.12
+urencomp = 1.74
+
+[[tarief]]
+land = "Bosnië en Herzegovina"
+regio = "Banja Luka"
+logies = 117.00
+ontbijt = 8.28
+lunch = 13.80
+diner = 22.08
+urencomp = 1.04
+
+[[tarief]]
+land = "Bosnië en Herzegovina"
+regio = "Bjelasnica en Trebinje"
+logies = 71.00
+ontbijt = 7.56
+lunch = 12.60
+diner = 20.16
+urencomp = 0.95
+
+[[tarief]]
+land = "Bosnië en Herzegovina"
+regio = "Jahorina"
+logies = 77.00
+ontbijt = 7.92
+lunch = 13.20
+diner = 21.12
+urencomp = 0.99
+
+[[tarief]]
+land = "Bosnië en Herzegovina"
+regio = "Mostar"
+logies = 88.00
+ontbijt = 8.28
+lunch = 13.80
+diner = 22.08
+urencomp = 1.04
+
+[[tarief]]
+land = "Bosnië en Herzegovina"
+regio = "Neum"
+logies = 92.00
+ontbijt = 9.36
+lunch = 15.60
+diner = 24.96
+urencomp = 1.17
+
+[[tarief]]
+land = "Bosnië en Herzegovina"
+regio = "Overig"
+logies = 42.00
+ontbijt = 5.52
+lunch = 9.20
+diner = 14.72
+urencomp = 0.69
+
+[[tarief]]
+land = "Bosnië en Herzegovina"
+regio = "Sarajevo"
+logies = 167.00
+ontbijt = 8.28
+lunch = 13.80
+diner = 22.08
+urencomp = 1.04
+
+[[tarief]]
+land = "Bosnië en Herzegovina"
+regio = "Vlasic"
+logies = 60.00
+ontbijt = 5.88
+lunch = 9.80
+diner = 15.68
+urencomp = 0.74
+
+[[tarief]]
+land = "Botswana"
+regio = "Gaborone"
+logies = 126.00
+ontbijt = 6.84
+lunch = 11.40
+diner = 18.24
+urencomp = 0.86
+
+[[tarief]]
+land = "Botswana"
+regio = "Overig"
+logies = 156.00
+ontbijt = 6.00
+lunch = 10.00
+diner = 16.00
+urencomp = 0.75
+
+[[tarief]]
+land = "Brazilië"
+regio = "Angra dos Reis"
+logies = 110.00
+ontbijt = 8.76
+lunch = 14.60
+diner = 23.36
+urencomp = 1.10
+
+[[tarief]]
+land = "Brazilië"
+regio = "Belém"
+logies = 129.00
+ontbijt = 7.32
+lunch = 12.20
+diner = 19.52
+urencomp = 0.92
+
+[[tarief]]
+land = "Brazilië"
+regio = "Brasilia"
+logies = 100.00
+ontbijt = 7.08
+lunch = 11.80
+diner = 18.88
+urencomp = 0.89
+
+[[tarief]]
+land = "Brazilië"
+regio = "Cuiabá"
+logies = 91.00
+ontbijt = 4.56
+lunch = 7.60
+diner = 12.16
+urencomp = 0.57
+
+[[tarief]]
+land = "Brazilië"
+regio = "Curitiba"
+logies = 86.00
+ontbijt = 4.68
+lunch = 7.80
+diner = 12.48
+urencomp = 0.59
+
+[[tarief]]
+land = "Brazilië"
+regio = "Fernando de Noronha"
+logies = 165.00
+ontbijt = 8.52
+lunch = 14.20
+diner = 22.72
+urencomp = 1.07
+
+[[tarief]]
+land = "Brazilië"
+regio = "Florianopolis"
+logies = 82.00
+ontbijt = 5.28
+lunch = 8.80
+diner = 14.08
+urencomp = 0.66
+
+[[tarief]]
+land = "Brazilië"
+regio = "Fortaleza,Ribeirão,SãoLuis,J. Pessoa"
+logies = 73.00
+ontbijt = 5.88
+lunch = 9.80
+diner = 15.68
+urencomp = 0.74
+
+[[tarief]]
+land = "Brazilië"
+regio = "Maceió"
+logies = 101.00
+ontbijt = 5.76
+lunch = 9.60
+diner = 15.36
+urencomp = 0.72
+
+[[tarief]]
+land = "Brazilië"
+regio = "Overig"
+logies = 73.00
+ontbijt = 5.40
+lunch = 9.00
+diner = 14.40
+urencomp = 0.68
+
+[[tarief]]
+land = "Brazilië"
+regio = "Paraty"
+logies = 167.00
+ontbijt = 12.36
+lunch = 20.60
+diner = 32.96
+urencomp = 1.55
+
+[[tarief]]
+land = "Brazilië"
+regio = "Penedo"
+logies = 101.00
+ontbijt = 9.12
+lunch = 15.20
+diner = 24.32
+urencomp = 1.14
+
+[[tarief]]
+land = "Brazilië"
+regio = "Porto Alegre"
+logies = 79.00
+ontbijt = 5.52
+lunch = 9.20
+diner = 14.72
+urencomp = 0.69
+
+[[tarief]]
+land = "Brazilië"
+regio = "Recife"
+logies = 81.00
+ontbijt = 5.40
+lunch = 9.00
+diner = 14.40
+urencomp = 0.68
+
+[[tarief]]
+land = "Brazilië"
+regio = "Rio de Janeiro"
+logies = 142.00
+ontbijt = 7.08
+lunch = 11.80
+diner = 18.88
+urencomp = 0.89
+
+[[tarief]]
+land = "Brazilië"
+regio = "Salvador"
+logies = 86.00
+ontbijt = 5.64
+lunch = 9.40
+diner = 15.04
+urencomp = 0.71
+
+[[tarief]]
+land = "Brazilië"
+regio = "Sao Paulo"
+logies = 147.00
+ontbijt = 7.32
+lunch = 12.20
+diner = 19.52
+urencomp = 0.92
+
+[[tarief]]
+land = "Brazilië"
+regio = "Sorocaba"
+logies = 82.00
+ontbijt = 6.48
+lunch = 10.80
+diner = 17.28
+urencomp = 0.81
+
+[[tarief]]
+land = "Brazilië"
+regio = "Vitoria"
+logies = 69.00
+ontbijt = 6.00
+lunch = 10.00
+diner = 16.00
+urencomp = 0.75
+
+[[tarief]]
+land = "Brunei"
+regio = "Brunei"
+logies = 106.00
+ontbijt = 6.96
+lunch = 11.60
+diner = 18.56
+urencomp = 0.87
+
+[[tarief]]
+land = "Bulgarije"
+regio = "Burgas, Plovdiv en Varna"
+logies = 72.00
+ontbijt = 7.32
+lunch = 12.20
+diner = 19.52
+urencomp = 0.92
+
+[[tarief]]
+land = "Bulgarije"
+regio = "Overig"
+logies = 57.00
+ontbijt = 6.72
+lunch = 11.20
+diner = 17.92
+urencomp = 0.84
+
+[[tarief]]
+land = "Bulgarije"
+regio = "Ruse"
+logies = 146.00
+ontbijt = 10.80
+lunch = 18.00
+diner = 28.80
+urencomp = 1.35
+
+[[tarief]]
+land = "Bulgarije"
+regio = "Sofia"
+logies = 343.00
+ontbijt = 13.32
+lunch = 22.20
+diner = 35.52
+urencomp = 1.67
+
+[[tarief]]
+land = "Burkina Faso"
+regio = "Ouagadougou"
+logies = 173.00
+ontbijt = 19.08
+lunch = 31.80
+diner = 50.88
+urencomp = 2.39
+
+[[tarief]]
+land = "Burkina Faso"
+regio = "Overig"
+logies = 99.00
+ontbijt = 7.80
+lunch = 13.00
+diner = 20.80
+urencomp = 0.98
+
+[[tarief]]
+land = "Burundi"
+regio = "Bujumbura"
+logies = 147.00
+ontbijt = 9.60
+lunch = 16.00
+diner = 25.60
+urencomp = 1.20
+
+[[tarief]]
+land = "Burundi"
+regio = "Overig"
+logies = 167.00
+ontbijt = 8.64
+lunch = 14.40
+diner = 23.04
+urencomp = 1.08
+
+[[tarief]]
+land = "Cambodja"
+regio = "Overig"
+logies = 401.00
+ontbijt = 10.08
+lunch = 16.80
+diner = 26.88
+urencomp = 1.26
+
+[[tarief]]
+land = "Cambodja"
+regio = "Phnom-Penh"
+logies = 160.00
+ontbijt = 11.28
+lunch = 18.80
+diner = 30.08
+urencomp = 1.41
+
+[[tarief]]
+land = "Canada"
+regio = "Calgary"
+logies = 163.00
+ontbijt = 9.72
+lunch = 16.20
+diner = 25.92
+urencomp = 1.22
+
+[[tarief]]
+land = "Canada"
+regio = "Montreal"
+logies = 197.00
+ontbijt = 11.76
+lunch = 19.60
+diner = 31.36
+urencomp = 1.47
+
+[[tarief]]
+land = "Canada"
+regio = "Ottawa"
+logies = 216.00
+ontbijt = 12.84
+lunch = 21.40
+diner = 34.24
+urencomp = 1.61
+
+[[tarief]]
+land = "Canada"
+regio = "Overig"
+logies = 152.00
+ontbijt = 9.48
+lunch = 15.80
+diner = 25.28
+urencomp = 1.19
+
+[[tarief]]
+land = "Canada"
+regio = "Toronto"
+logies = 226.00
+ontbijt = 11.76
+lunch = 19.60
+diner = 31.36
+urencomp = 1.47
+
+[[tarief]]
+land = "Canada"
+regio = "Vancouver"
+logies = 222.00
+ontbijt = 12.12
+lunch = 20.20
+diner = 32.32
+urencomp = 1.52
+
+[[tarief]]
+land = "Centraal-Afrikaanse Republiek"
+regio = "Bangui"
+logies = 175.00
+ontbijt = 10.92
+lunch = 18.20
+diner = 29.12
+urencomp = 1.37
+
+[[tarief]]
+land = "Centraal-Afrikaanse Republiek"
+regio = "Overig"
+logies = 42.00
+ontbijt = 4.08
+lunch = 6.80
+diner = 10.88
+urencomp = 0.51
+
+[[tarief]]
+land = "Chili"
+regio = "Overig"
+logies = 309.00
+ontbijt = 12.48
+lunch = 20.80
+diner = 33.28
+urencomp = 1.56
+
+[[tarief]]
+land = "Chili"
+regio = "Santiago"
+logies = 291.00
+ontbijt = 14.40
+lunch = 24.00
+diner = 38.40
+urencomp = 1.80
+
+[[tarief]]
+land = "China"
+regio = "Changsha"
+logies = 117.00
+ontbijt = 7.56
+lunch = 12.60
+diner = 20.16
+urencomp = 0.95
+
+[[tarief]]
+land = "China"
+regio = "Chengdu"
+logies = 130.00
+ontbijt = 8.40
+lunch = 14.00
+diner = 22.40
+urencomp = 1.05
+
+[[tarief]]
+land = "China"
+regio = "Dalian"
+logies = 105.00
+ontbijt = 7.08
+lunch = 11.80
+diner = 18.88
+urencomp = 0.89
+
+[[tarief]]
+land = "China"
+regio = "Guangzhou"
+logies = 227.00
+ontbijt = 11.76
+lunch = 19.60
+diner = 31.36
+urencomp = 1.47
+
+[[tarief]]
+land = "China"
+regio = "Guiyang"
+logies = 115.00
+ontbijt = 9.24
+lunch = 15.40
+diner = 24.64
+urencomp = 1.16
+
+[[tarief]]
+land = "China"
+regio = "Haikou"
+logies = 108.00
+ontbijt = 9.00
+lunch = 15.00
+diner = 24.00
+urencomp = 1.13
+
+[[tarief]]
+land = "China"
+regio = "Hangzhou"
+logies = 119.00
+ontbijt = 8.76
+lunch = 14.60
+diner = 23.36
+urencomp = 1.10
+
+[[tarief]]
+land = "China"
+regio = "Jinan"
+logies = 97.00
+ontbijt = 7.80
+lunch = 13.00
+diner = 20.80
+urencomp = 0.98
+
+[[tarief]]
+land = "China"
+regio = "Kunming"
+logies = 102.00
+ontbijt = 6.96
+lunch = 11.60
+diner = 18.56
+urencomp = 0.87
+
+[[tarief]]
+land = "China"
+regio = "Lanzhou"
+logies = 106.00
+ontbijt = 9.24
+lunch = 15.40
+diner = 24.64
+urencomp = 1.16
+
+[[tarief]]
+land = "China"
+regio = "Overig"
+logies = 90.00
+ontbijt = 7.20
+lunch = 12.00
+diner = 19.20
+urencomp = 0.90
+
+[[tarief]]
+land = "China"
+regio = "Peking"
+logies = 324.00
+ontbijt = 15.36
+lunch = 25.60
+diner = 40.96
+urencomp = 1.92
+
+[[tarief]]
+land = "China"
+regio = "Qingdao"
+logies = 106.00
+ontbijt = 7.80
+lunch = 13.00
+diner = 20.80
+urencomp = 0.98
+
+[[tarief]]
+land = "China"
+regio = "Sanya"
+logies = 130.00
+ontbijt = 7.68
+lunch = 12.80
+diner = 20.48
+urencomp = 0.96
+
+[[tarief]]
+land = "China"
+regio = "Shanghai"
+logies = 143.00
+ontbijt = 8.88
+lunch = 14.80
+diner = 23.68
+urencomp = 1.11
+
+[[tarief]]
+land = "China"
+regio = "Shenzhen"
+logies = 159.00
+ontbijt = 9.00
+lunch = 15.00
+diner = 24.00
+urencomp = 1.13
+
+[[tarief]]
+land = "China"
+regio = "Tianjin"
+logies = 177.00
+ontbijt = 12.00
+lunch = 20.00
+diner = 32.00
+urencomp = 1.50
+
+[[tarief]]
+land = "China"
+regio = "Wu Han"
+logies = 118.00
+ontbijt = 8.64
+lunch = 14.40
+diner = 23.04
+urencomp = 1.08
+
+[[tarief]]
+land = "China"
+regio = "Xiamen"
+logies = 116.00
+ontbijt = 8.52
+lunch = 14.20
+diner = 22.72
+urencomp = 1.07
+
+[[tarief]]
+land = "China"
+regio = "Xi'An"
+logies = 120.00
+ontbijt = 9.24
+lunch = 15.40
+diner = 24.64
+urencomp = 1.16
+
+[[tarief]]
+land = "China, Hong Kong"
+regio = "Hong Kong"
+logies = 566.00
+ontbijt = 20.76
+lunch = 34.60
+diner = 55.36
+urencomp = 2.60
+
+[[tarief]]
+land = "China, Macau"
+regio = "Macau"
+logies = 520.00
+ontbijt = 25.80
+lunch = 43.00
+diner = 68.80
+urencomp = 3.23
+
+[[tarief]]
+land = "Colombia"
+regio = "Bogotá"
+logies = 226.00
+ontbijt = 16.56
+lunch = 27.60
+diner = 44.16
+urencomp = 2.07
+
+[[tarief]]
+land = "Colombia"
+regio = "Overig"
+logies = 164.00
+ontbijt = 5.28
+lunch = 8.80
+diner = 14.08
+urencomp = 0.66
+
+[[tarief]]
+land = "Comoren"
+regio = "Moroni"
+logies = 123.00
+ontbijt = 12.60
+lunch = 21.00
+diner = 33.60
+urencomp = 1.58
+
+[[tarief]]
+land = "Comoren"
+regio = "Overig"
+logies = 98.00
+ontbijt = 10.80
+lunch = 18.00
+diner = 28.80
+urencomp = 1.35
+
+[[tarief]]
+land = "Congo-Brazaville"
+regio = "Brazzaville"
+logies = 209.00
+ontbijt = 12.96
+lunch = 21.60
+diner = 34.56
+urencomp = 1.62
+
+[[tarief]]
+land = "Congo-Brazaville"
+regio = "Overig"
+logies = 300.00
+ontbijt = 10.44
+lunch = 17.40
+diner = 27.84
+urencomp = 1.31
+
+[[tarief]]
+land = "Congo-Kinshasa"
+regio = "Kinshasa"
+logies = 265.00
+ontbijt = 16.44
+lunch = 27.40
+diner = 43.84
+urencomp = 2.06
+
+[[tarief]]
+land = "Congo-Kinshasa"
+regio = "Overig"
+logies = 128.00
+ontbijt = 6.48
+lunch = 10.80
+diner = 17.28
+urencomp = 0.81
+
+[[tarief]]
+land = "Cookeilanden"
+regio = "Overig"
+logies = 368.00
+ontbijt = 11.28
+lunch = 18.80
+diner = 30.08
+urencomp = 1.41
+
+[[tarief]]
+land = "Cookeilanden"
+regio = "Rarotonga"
+logies = 392.00
+ontbijt = 14.40
+lunch = 24.00
+diner = 38.40
+urencomp = 1.80
+
+[[tarief]]
+land = "Costa Rica"
+regio = "Overig"
+logies = 174.00
+ontbijt = 7.56
+lunch = 12.60
+diner = 20.16
+urencomp = 0.95
+
+[[tarief]]
+land = "Costa Rica"
+regio = "San José"
+logies = 188.00
+ontbijt = 13.92
+lunch = 23.20
+diner = 37.12
+urencomp = 1.74
+
+[[tarief]]
+land = "Cuba"
+regio = "Havana"
+logies = 147.00
+ontbijt = 7.92
+lunch = 13.20
+diner = 21.12
+urencomp = 0.99
+
+[[tarief]]
+land = "Cuba"
+regio = "Overig"
+logies = 130.00
+ontbijt = 6.36
+lunch = 10.60
+diner = 16.96
+urencomp = 0.80
+
+[[tarief]]
+land = "Curaçao"
+regio = "Curaçao"
+logies = 154.00
+ontbijt = 20.76
+lunch = 34.60
+diner = 55.36
+urencomp = 2.60
+
+[[tarief]]
+land = "Cyprus"
+regio = "Nicosia"
+logies = 132.00
+ontbijt = 8.88
+lunch = 14.80
+diner = 23.68
+urencomp = 1.11
+
+[[tarief]]
+land = "Cyprus"
+regio = "Overig"
+logies = 171.00
+ontbijt = 6.84
+lunch = 11.40
+diner = 18.24
+urencomp = 0.86
+
+[[tarief]]
+land = "Denemarken"
+regio = "Denemarken"
+logies = 191.00
+ontbijt = 15.96
+lunch = 26.60
+diner = 42.56
+urencomp = 2.00
+
+[[tarief]]
+land = "Djibouti"
+regio = "Djibouti"
+logies = 248.00
+ontbijt = 13.44
+lunch = 22.40
+diner = 35.84
+urencomp = 1.68
+
+[[tarief]]
+land = "Djibouti"
+regio = "Overig"
+logies = 102.00
+ontbijt = 7.44
+lunch = 12.40
+diner = 19.84
+urencomp = 0.93
+
+[[tarief]]
+land = "Dominica"
+regio = "Dominica"
+logies = 221.00
+ontbijt = 17.64
+lunch = 29.40
+diner = 47.04
+urencomp = 2.21
+
+[[tarief]]
+land = "Dominicaanse Republiek"
+regio = "Overig"
+logies = 239.00
+ontbijt = 8.04
+lunch = 13.40
+diner = 21.44
+urencomp = 1.01
+
+[[tarief]]
+land = "Dominicaanse Republiek"
+regio = "Santo Domingo"
+logies = 116.00
+ontbijt = 10.08
+lunch = 16.80
+diner = 26.88
+urencomp = 1.26
+
+[[tarief]]
+land = "Duitsland"
+regio = "Berlijn"
+logies = 285.00
+ontbijt = 23.76
+lunch = 39.60
+diner = 63.36
+urencomp = 2.97
+
+[[tarief]]
+land = "Duitsland"
+regio = "Bonn"
+logies = 217.00
+ontbijt = 16.68
+lunch = 27.80
+diner = 44.48
+urencomp = 2.09
+
+[[tarief]]
+land = "Duitsland"
+regio = "Frankfurt"
+logies = 238.00
+ontbijt = 16.80
+lunch = 28.00
+diner = 44.80
+urencomp = 2.10
+
+[[tarief]]
+land = "Duitsland"
+regio = "Hamburg"
+logies = 244.00
+ontbijt = 21.12
+lunch = 35.20
+diner = 56.32
+urencomp = 2.64
+
+[[tarief]]
+land = "Duitsland"
+regio = "München"
+logies = 407.00
+ontbijt = 20.16
+lunch = 33.60
+diner = 53.76
+urencomp = 2.52
+
+[[tarief]]
+land = "Duitsland"
+regio = "Overig"
+logies = 148.00
+ontbijt = 14.52
+lunch = 24.20
+diner = 38.72
+urencomp = 1.82
+
+[[tarief]]
+land = "Ecuador"
+regio = "Overig"
+logies = 213.00
+ontbijt = 6.24
+lunch = 10.40
+diner = 16.64
+urencomp = 0.78
+
+[[tarief]]
+land = "Ecuador"
+regio = "Quito"
+logies = 118.00
+ontbijt = 5.88
+lunch = 9.80
+diner = 15.68
+urencomp = 0.74
+
+[[tarief]]
+land = "Egypte"
+regio = "Caïro"
+logies = 157.00
+ontbijt = 11.52
+lunch = 19.20
+diner = 30.72
+urencomp = 1.44
+
+[[tarief]]
+land = "Egypte"
+regio = "Overig"
+logies = 314.00
+ontbijt = 13.32
+lunch = 22.20
+diner = 35.52
+urencomp = 1.67
+
+[[tarief]]
+land = "El Salvador"
+regio = "Overig"
+logies = 65.00
+ontbijt = 6.36
+lunch = 10.60
+diner = 16.96
+urencomp = 0.80
+
+[[tarief]]
+land = "El Salvador"
+regio = "San Salvador"
+logies = 113.00
+ontbijt = 9.72
+lunch = 16.20
+diner = 25.92
+urencomp = 1.22
+
+[[tarief]]
+land = "Equatoriaal-Guinea"
+regio = "Malabo"
+logies = 180.00
+ontbijt = 14.40
+lunch = 24.00
+diner = 38.40
+urencomp = 1.80
+
+[[tarief]]
+land = "Equatoriaal-Guinea"
+regio = "Overig"
+logies = 154.00
+ontbijt = 8.16
+lunch = 13.60
+diner = 21.76
+urencomp = 1.02
+
+[[tarief]]
+land = "Eritrea"
+regio = "Asmara"
+logies = 64.00
+ontbijt = 10.08
+lunch = 16.80
+diner = 26.88
+urencomp = 1.26
+
+[[tarief]]
+land = "Eritrea"
+regio = "Overig"
+logies = 61.00
+ontbijt = 7.20
+lunch = 12.00
+diner = 19.20
+urencomp = 0.90
+
+[[tarief]]
+land = "Estland"
+regio = "Estland"
+logies = 94.00
+ontbijt = 11.28
+lunch = 18.80
+diner = 30.08
+urencomp = 1.41
+
+[[tarief]]
+land = "Eswatini"
+regio = "Mbabane"
+logies = 68.00
+ontbijt = 8.88
+lunch = 14.80
+diner = 23.68
+urencomp = 1.11
+
+[[tarief]]
+land = "Eswatini"
+regio = "Overig"
+logies = 95.00
+ontbijt = 7.44
+lunch = 12.40
+diner = 19.84
+urencomp = 0.93
+
+[[tarief]]
+land = "Ethiopië"
+regio = "Addis Abeba"
+logies = 272.00
+ontbijt = 9.96
+lunch = 16.60
+diner = 26.56
+urencomp = 1.25
+
+[[tarief]]
+land = "Ethiopië"
+regio = "Overig"
+logies = 139.00
+ontbijt = 6.36
+lunch = 10.60
+diner = 16.96
+urencomp = 0.80
+
+[[tarief]]
+land = "Fiji"
+regio = "Overig"
+logies = 470.00
+ontbijt = 10.44
+lunch = 17.40
+diner = 27.84
+urencomp = 1.31
+
+[[tarief]]
+land = "Fiji"
+regio = "Suva"
+logies = 256.00
+ontbijt = 11.52
+lunch = 19.20
+diner = 30.72
+urencomp = 1.44
+
+[[tarief]]
+land = "Filipijnen"
+regio = "Manila"
+logies = 111.00
+ontbijt = 10.44
+lunch = 17.40
+diner = 27.84
+urencomp = 1.31
+
+[[tarief]]
+land = "Filipijnen"
+regio = "Overig"
+logies = 136.00
+ontbijt = 5.28
+lunch = 8.80
+diner = 14.08
+urencomp = 0.66
+
+[[tarief]]
+land = "Finland"
+regio = "Helsinki"
+logies = 192.00
+ontbijt = 13.56
+lunch = 22.60
+diner = 36.16
+urencomp = 1.70
+
+[[tarief]]
+land = "Finland"
+regio = "Overig"
+logies = 172.00
+ontbijt = 12.12
+lunch = 20.20
+diner = 32.32
+urencomp = 1.52
+
+[[tarief]]
+land = "Frankrijk"
+regio = "Overig"
+logies = 175.00
+ontbijt = 16.44
+lunch = 27.40
+diner = 43.84
+urencomp = 2.06
+
+[[tarief]]
+land = "Frankrijk"
+regio = "Parijs"
+logies = 233.00
+ontbijt = 15.72
+lunch = 26.20
+diner = 41.92
+urencomp = 1.97
+
+[[tarief]]
+land = "Gabon"
+regio = "Libreville"
+logies = 285.00
+ontbijt = 17.76
+lunch = 29.60
+diner = 47.36
+urencomp = 2.22
+
+[[tarief]]
+land = "Gabon"
+regio = "Overig"
+logies = 207.00
+ontbijt = 11.16
+lunch = 18.60
+diner = 29.76
+urencomp = 1.40
+
+[[tarief]]
+land = "Gambia"
+regio = "Banjul"
+logies = 169.00
+ontbijt = 6.60
+lunch = 11.00
+diner = 17.60
+urencomp = 0.83
+
+[[tarief]]
+land = "Gambia"
+regio = "Overig"
+logies = 139.00
+ontbijt = 3.72
+lunch = 6.20
+diner = 9.92
+urencomp = 0.47
+
+[[tarief]]
+land = "Georgië"
+regio = "Batumi"
+logies = 125.00
+ontbijt = 8.16
+lunch = 13.60
+diner = 21.76
+urencomp = 1.02
+
+[[tarief]]
+land = "Georgië"
+regio = "Kobuleti"
+logies = 241.00
+ontbijt = 10.80
+lunch = 18.00
+diner = 28.80
+urencomp = 1.35
+
+[[tarief]]
+land = "Georgië"
+regio = "Overig"
+logies = 85.00
+ontbijt = 6.84
+lunch = 11.40
+diner = 18.24
+urencomp = 0.86
+
+[[tarief]]
+land = "Georgië"
+regio = "Tbilisi"
+logies = 178.00
+ontbijt = 8.40
+lunch = 14.00
+diner = 22.40
+urencomp = 1.05
+
+[[tarief]]
+land = "Ghana"
+regio = "Accra"
+logies = 426.00
+ontbijt = 18.24
+lunch = 30.40
+diner = 48.64
+urencomp = 2.28
+
+[[tarief]]
+land = "Ghana"
+regio = "Overig"
+logies = 308.00
+ontbijt = 7.80
+lunch = 13.00
+diner = 20.80
+urencomp = 0.98
+
+[[tarief]]
+land = "Gibraltar"
+regio = "Gibraltar"
+logies = 109.00
+ontbijt = 7.08
+lunch = 11.80
+diner = 18.88
+urencomp = 0.89
+
+[[tarief]]
+land = "Grenada"
+regio = "Grenada"
+logies = 177.00
+ontbijt = 10.56
+lunch = 17.60
+diner = 28.16
+urencomp = 1.32
+
+[[tarief]]
+land = "Griekenland"
+regio = "Athene"
+logies = 194.00
+ontbijt = 7.92
+lunch = 13.20
+diner = 21.12
+urencomp = 0.99
+
+[[tarief]]
+land = "Griekenland"
+regio = "Overig"
+logies = 100.00
+ontbijt = 7.68
+lunch = 12.80
+diner = 20.48
+urencomp = 0.96
+
+[[tarief]]
+land = "Griekenland"
+regio = "Thessaloniki"
+logies = 111.00
+ontbijt = 8.52
+lunch = 14.20
+diner = 22.72
+urencomp = 1.07
+
+[[tarief]]
+land = "Groot-Brittannië (en Noord-Ierland)"
+regio = "Londen"
+logies = 277.00
+ontbijt = 16.44
+lunch = 27.40
+diner = 43.84
+urencomp = 2.06
+
+[[tarief]]
+land = "Groot-Brittannië (en Noord-Ierland)"
+regio = "Overig"
+logies = 160.00
+ontbijt = 12.24
+lunch = 20.40
+diner = 32.64
+urencomp = 1.53
+
+[[tarief]]
+land = "Guam"
+regio = "Guam"
+logies = 130.00
+ontbijt = 10.80
+lunch = 18.00
+diner = 28.80
+urencomp = 1.35
+
+[[tarief]]
+land = "Guatemala"
+regio = "Guatemala-Stad"
+logies = 122.00
+ontbijt = 8.28
+lunch = 13.80
+diner = 22.08
+urencomp = 1.04
+
+[[tarief]]
+land = "Guatemala"
+regio = "Overig"
+logies = 136.00
+ontbijt = 6.00
+lunch = 10.00
+diner = 16.00
+urencomp = 0.75
+
+[[tarief]]
+land = "Guinee"
+regio = "Conakry"
+logies = 279.00
+ontbijt = 12.00
+lunch = 20.00
+diner = 32.00
+urencomp = 1.50
+
+[[tarief]]
+land = "Guinee"
+regio = "Overig"
+logies = 83.00
+ontbijt = 7.20
+lunch = 12.00
+diner = 19.20
+urencomp = 0.90
+
+[[tarief]]
+land = "Guinee-Bissau"
+regio = "Bissau"
+logies = 136.00
+ontbijt = 8.52
+lunch = 14.20
+diner = 22.72
+urencomp = 1.07
+
+[[tarief]]
+land = "Guinee-Bissau"
+regio = "Overig"
+logies = 88.00
+ontbijt = 5.28
+lunch = 8.80
+diner = 14.08
+urencomp = 0.66
+
+[[tarief]]
+land = "Guyana"
+regio = "Georgetown"
+logies = 436.00
+ontbijt = 14.40
+lunch = 24.00
+diner = 38.40
+urencomp = 1.80
+
+[[tarief]]
+land = "Guyana"
+regio = "Overig"
+logies = 187.00
+ontbijt = 8.16
+lunch = 13.60
+diner = 21.76
+urencomp = 1.02
+
+[[tarief]]
+land = "Haïti"
+regio = "Overig"
+logies = 149.00
+ontbijt = 8.52
+lunch = 14.20
+diner = 22.72
+urencomp = 1.07
+
+[[tarief]]
+land = "Haïti"
+regio = "Port-au-Prince"
+logies = 217.00
+ontbijt = 12.36
+lunch = 20.60
+diner = 32.96
+urencomp = 1.55
+
+[[tarief]]
+land = "Honduras"
+regio = "Overig"
+logies = 67.00
+ontbijt = 5.16
+lunch = 8.60
+diner = 13.76
+urencomp = 0.65
+
+[[tarief]]
+land = "Honduras"
+regio = "Roatan"
+logies = 232.00
+ontbijt = 17.04
+lunch = 28.40
+diner = 45.44
+urencomp = 2.13
+
+[[tarief]]
+land = "Honduras"
+regio = "San Pedro Sula"
+logies = 141.00
+ontbijt = 6.60
+lunch = 11.00
+diner = 17.60
+urencomp = 0.83
+
+[[tarief]]
+land = "Honduras"
+regio = "Tegucigalpa"
+logies = 261.00
+ontbijt = 8.64
+lunch = 14.40
+diner = 23.04
+urencomp = 1.08
+
+[[tarief]]
+land = "Hongarije"
+regio = "Boedapest"
+logies = 139.00
+ontbijt = 9.36
+lunch = 15.60
+diner = 24.96
+urencomp = 1.17
+
+[[tarief]]
+land = "Hongarije"
+regio = "Overig"
+logies = 97.00
+ontbijt = 5.28
+lunch = 8.80
+diner = 14.08
+urencomp = 0.66
+
+[[tarief]]
+land = "Hongarije"
+regio = "Visegrad"
+logies = 140.00
+ontbijt = 6.60
+lunch = 11.00
+diner = 17.60
+urencomp = 0.83
+
+[[tarief]]
+land = "Ierland"
+regio = "Ierland"
+logies = 167.00
+ontbijt = 13.32
+lunch = 22.20
+diner = 35.52
+urencomp = 1.67
+
+[[tarief]]
+land = "IJsland"
+regio = "IJsland"
+logies = 193.00
+ontbijt = 12.48
+lunch = 20.80
+diner = 33.28
+urencomp = 1.56
+
+[[tarief]]
+land = "India"
+regio = "Ahmedabad"
+logies = 111.00
+ontbijt = 9.24
+lunch = 15.40
+diner = 24.64
+urencomp = 1.16
+
+[[tarief]]
+land = "India"
+regio = "Bengaluru"
+logies = 82.00
+ontbijt = 5.76
+lunch = 9.60
+diner = 15.36
+urencomp = 0.72
+
+[[tarief]]
+land = "India"
+regio = "Chennai"
+logies = 88.00
+ontbijt = 5.40
+lunch = 9.00
+diner = 14.40
+urencomp = 0.68
+
+[[tarief]]
+land = "India"
+regio = "Delhi"
+logies = 199.00
+ontbijt = 13.44
+lunch = 22.40
+diner = 35.84
+urencomp = 1.68
+
+[[tarief]]
+land = "India"
+regio = "Goa"
+logies = 103.00
+ontbijt = 5.28
+lunch = 8.80
+diner = 14.08
+urencomp = 0.66
+
+[[tarief]]
+land = "India"
+regio = "Hyderabad"
+logies = 77.00
+ontbijt = 5.16
+lunch = 8.60
+diner = 13.76
+urencomp = 0.65
+
+[[tarief]]
+land = "India"
+regio = "Jaipur, Kolkata en Pune"
+logies = 69.00
+ontbijt = 5.04
+lunch = 8.40
+diner = 13.44
+urencomp = 0.63
+
+[[tarief]]
+land = "India"
+regio = "Mumbai"
+logies = 279.00
+ontbijt = 16.56
+lunch = 27.60
+diner = 44.16
+urencomp = 2.07
+
+[[tarief]]
+land = "India"
+regio = "Overig"
+logies = 62.00
+ontbijt = 5.16
+lunch = 8.60
+diner = 13.76
+urencomp = 0.65
+
+[[tarief]]
+land = "India"
+regio = "Srinagar"
+logies = 331.00
+ontbijt = 13.56
+lunch = 22.60
+diner = 36.16
+urencomp = 1.70
+
+[[tarief]]
+land = "Indonesië"
+regio = "Badung"
+logies = 131.00
+ontbijt = 11.88
+lunch = 19.80
+diner = 31.68
+urencomp = 1.49
+
+[[tarief]]
+land = "Indonesië"
+regio = "Bandung"
+logies = 64.00
+ontbijt = 6.48
+lunch = 10.80
+diner = 17.28
+urencomp = 0.81
+
+[[tarief]]
+land = "Indonesië"
+regio = "Bogor"
+logies = 67.00
+ontbijt = 5.40
+lunch = 9.00
+diner = 14.40
+urencomp = 0.68
+
+[[tarief]]
+land = "Indonesië"
+regio = "Denpasar"
+logies = 46.00
+ontbijt = 6.24
+lunch = 10.40
+diner = 16.64
+urencomp = 0.78
+
+[[tarief]]
+land = "Indonesië"
+regio = "Jakarta"
+logies = 312.00
+ontbijt = 17.76
+lunch = 29.60
+diner = 47.36
+urencomp = 2.22
+
+[[tarief]]
+land = "Indonesië"
+regio = "Jayapura"
+logies = 81.00
+ontbijt = 4.56
+lunch = 7.60
+diner = 12.16
+urencomp = 0.57
+
+[[tarief]]
+land = "Indonesië"
+regio = "Kuta"
+logies = 78.00
+ontbijt = 6.24
+lunch = 10.40
+diner = 16.64
+urencomp = 0.78
+
+[[tarief]]
+land = "Indonesië"
+regio = "Makassar"
+logies = 48.00
+ontbijt = 8.40
+lunch = 14.00
+diner = 22.40
+urencomp = 1.05
+
+[[tarief]]
+land = "Indonesië"
+regio = "Manado"
+logies = 74.00
+ontbijt = 5.40
+lunch = 9.00
+diner = 14.40
+urencomp = 0.68
+
+[[tarief]]
+land = "Indonesië"
+regio = "Medan"
+logies = 79.00
+ontbijt = 5.64
+lunch = 9.40
+diner = 15.04
+urencomp = 0.71
+
+[[tarief]]
+land = "Indonesië"
+regio = "Nusa Dua"
+logies = 353.00
+ontbijt = 15.96
+lunch = 26.60
+diner = 42.56
+urencomp = 2.00
+
+[[tarief]]
+land = "Indonesië"
+regio = "Overig"
+logies = 52.00
+ontbijt = 5.04
+lunch = 8.40
+diner = 13.44
+urencomp = 0.63
+
+[[tarief]]
+land = "Indonesië"
+regio = "Senggigi"
+logies = 173.00
+ontbijt = 8.52
+lunch = 14.20
+diner = 22.72
+urencomp = 1.07
+
+[[tarief]]
+land = "Indonesië"
+regio = "Sentul"
+logies = 92.00
+ontbijt = 6.24
+lunch = 10.40
+diner = 16.64
+urencomp = 0.78
+
+[[tarief]]
+land = "Indonesië"
+regio = "Surabaya"
+logies = 97.00
+ontbijt = 8.04
+lunch = 13.40
+diner = 21.44
+urencomp = 1.01
+
+[[tarief]]
+land = "Indonesië"
+regio = "Yogyakarta"
+logies = 74.00
+ontbijt = 6.60
+lunch = 11.00
+diner = 17.60
+urencomp = 0.83
+
+[[tarief]]
+land = "Irak"
+regio = "Bagdad"
+logies = 193.00
+ontbijt = 11.52
+lunch = 19.20
+diner = 30.72
+urencomp = 1.44
+
+[[tarief]]
+land = "Irak"
+regio = "Overig"
+logies = 279.00
+ontbijt = 10.20
+lunch = 17.00
+diner = 27.20
+urencomp = 1.28
+
+[[tarief]]
+land = "Iran"
+regio = "Overig"
+logies = 125.00
+ontbijt = 4.92
+lunch = 8.20
+diner = 13.12
+urencomp = 0.62
+
+[[tarief]]
+land = "Iran"
+regio = "Tehran"
+logies = 100.00
+ontbijt = 5.76
+lunch = 9.60
+diner = 15.36
+urencomp = 0.72
+
+[[tarief]]
+land = "Israël"
+regio = "Eilat"
+logies = 222.00
+ontbijt = 9.60
+lunch = 16.00
+diner = 25.60
+urencomp = 1.20
+
+[[tarief]]
+land = "Israël"
+regio = "Haifa"
+logies = 194.00
+ontbijt = 12.00
+lunch = 20.00
+diner = 32.00
+urencomp = 1.50
+
+[[tarief]]
+land = "Israël"
+regio = "Jeruzalem"
+logies = 303.00
+ontbijt = 20.52
+lunch = 34.20
+diner = 54.72
+urencomp = 2.57
+
+[[tarief]]
+land = "Israël"
+regio = "Overig"
+logies = 168.00
+ontbijt = 9.60
+lunch = 16.00
+diner = 25.60
+urencomp = 1.20
+
+[[tarief]]
+land = "Israël"
+regio = "Tel Aviv"
+logies = 397.00
+ontbijt = 13.80
+lunch = 23.00
+diner = 36.80
+urencomp = 1.73
+
+[[tarief]]
+land = "Israël"
+regio = "Tiberias"
+logies = 175.00
+ontbijt = 10.44
+lunch = 17.40
+diner = 27.84
+urencomp = 1.31
+
+[[tarief]]
+land = "Italië"
+regio = "Bologna"
+logies = 172.00
+ontbijt = 15.00
+lunch = 25.00
+diner = 40.00
+urencomp = 1.88
+
+[[tarief]]
+land = "Italië"
+regio = "Florence"
+logies = 231.00
+ontbijt = 15.00
+lunch = 25.00
+diner = 40.00
+urencomp = 1.88
+
+[[tarief]]
+land = "Italië"
+regio = "Lampedusa"
+logies = 209.00
+ontbijt = 9.96
+lunch = 16.60
+diner = 26.56
+urencomp = 1.25
+
+[[tarief]]
+land = "Italië"
+regio = "Milaan"
+logies = 276.00
+ontbijt = 21.12
+lunch = 35.20
+diner = 56.32
+urencomp = 2.64
+
+[[tarief]]
+land = "Italië"
+regio = "Napels"
+logies = 223.00
+ontbijt = 17.88
+lunch = 29.80
+diner = 47.68
+urencomp = 2.24
+
+[[tarief]]
+land = "Italië"
+regio = "Overig"
+logies = 99.00
+ontbijt = 11.88
+lunch = 19.80
+diner = 31.68
+urencomp = 1.49
+
+[[tarief]]
+land = "Italië"
+regio = "Palermo"
+logies = 133.00
+ontbijt = 18.00
+lunch = 30.00
+diner = 48.00
+urencomp = 2.25
+
+[[tarief]]
+land = "Italië"
+regio = "Rome"
+logies = 249.00
+ontbijt = 18.36
+lunch = 30.60
+diner = 48.96
+urencomp = 2.30
+
+[[tarief]]
+land = "Italië"
+regio = "Triëst"
+logies = 132.00
+ontbijt = 17.76
+lunch = 29.60
+diner = 47.36
+urencomp = 2.22
+
+[[tarief]]
+land = "Italië"
+regio = "Turijn"
+logies = 147.00
+ontbijt = 16.92
+lunch = 28.20
+diner = 45.12
+urencomp = 2.12
+
+[[tarief]]
+land = "Italië"
+regio = "Venetië"
+logies = 299.00
+ontbijt = 20.28
+lunch = 33.80
+diner = 54.08
+urencomp = 2.54
+
+[[tarief]]
+land = "Ivoorkust"
+regio = "Abidjan"
+logies = 215.00
+ontbijt = 15.24
+lunch = 25.40
+diner = 40.64
+urencomp = 1.91
+
+[[tarief]]
+land = "Ivoorkust"
+regio = "Overig"
+logies = 143.00
+ontbijt = 9.84
+lunch = 16.40
+diner = 26.24
+urencomp = 1.23
+
+[[tarief]]
+land = "Jamaica"
+regio = "Kingston"
+logies = 323.00
+ontbijt = 12.60
+lunch = 21.00
+diner = 33.60
+urencomp = 1.58
+
+[[tarief]]
+land = "Jamaica"
+regio = "Overig"
+logies = 314.00
+ontbijt = 20.28
+lunch = 33.80
+diner = 54.08
+urencomp = 2.54
+
+[[tarief]]
+land = "Japan"
+regio = "Fukuoka"
+logies = 122.00
+ontbijt = 7.92
+lunch = 13.20
+diner = 21.12
+urencomp = 0.99
+
+[[tarief]]
+land = "Japan"
+regio = "Kobe"
+logies = 291.00
+ontbijt = 11.88
+lunch = 19.80
+diner = 31.68
+urencomp = 1.49
+
+[[tarief]]
+land = "Japan"
+regio = "Kyoto"
+logies = 208.00
+ontbijt = 11.28
+lunch = 18.80
+diner = 30.08
+urencomp = 1.41
+
+[[tarief]]
+land = "Japan"
+regio = "Nagoya"
+logies = 145.00
+ontbijt = 9.36
+lunch = 15.60
+diner = 24.96
+urencomp = 1.17
+
+[[tarief]]
+land = "Japan"
+regio = "Osaka"
+logies = 248.00
+ontbijt = 12.84
+lunch = 21.40
+diner = 34.24
+urencomp = 1.61
+
+[[tarief]]
+land = "Japan"
+regio = "Overig"
+logies = 101.00
+ontbijt = 7.08
+lunch = 11.80
+diner = 18.88
+urencomp = 0.89
+
+[[tarief]]
+land = "Japan"
+regio = "Tokyo"
+logies = 339.00
+ontbijt = 19.32
+lunch = 32.20
+diner = 51.52
+urencomp = 2.42
+
+[[tarief]]
+land = "Japan"
+regio = "Yokohama"
+logies = 191.00
+ontbijt = 12.36
+lunch = 20.60
+diner = 32.96
+urencomp = 1.55
+
+[[tarief]]
+land = "Jemen"
+regio = "Overig"
+logies = 232.00
+ontbijt = 6.72
+lunch = 11.20
+diner = 17.92
+urencomp = 0.84
+
+[[tarief]]
+land = "Jemen"
+regio = "Sanaa"
+logies = 214.00
+ontbijt = 7.92
+lunch = 13.20
+diner = 21.12
+urencomp = 0.99
+
+[[tarief]]
+land = "Jersey"
+regio = "Jersey"
+logies = 239.00
+ontbijt = 15.48
+lunch = 25.80
+diner = 41.28
+urencomp = 1.94
+
+[[tarief]]
+land = "Jordanië"
+regio = "Amman"
+logies = 203.00
+ontbijt = 13.80
+lunch = 23.00
+diner = 36.80
+urencomp = 1.73
+
+[[tarief]]
+land = "Jordanië"
+regio = "Overig"
+logies = 147.00
+ontbijt = 8.88
+lunch = 14.80
+diner = 23.68
+urencomp = 1.11
+
+[[tarief]]
+land = "Kaaimaneilanden"
+regio = "Kaaimaneilanden"
+logies = 340.00
+ontbijt = 24.96
+lunch = 41.60
+diner = 66.56
+urencomp = 3.12
+
+[[tarief]]
+land = "Kaapverdië"
+regio = "Overig"
+logies = 256.00
+ontbijt = 9.12
+lunch = 15.20
+diner = 24.32
+urencomp = 1.14
+
+[[tarief]]
+land = "Kaapverdië"
+regio = "Praia"
+logies = 156.00
+ontbijt = 14.04
+lunch = 23.40
+diner = 37.44
+urencomp = 1.76
+
+[[tarief]]
+land = "Kameroen"
+regio = "Overig"
+logies = 104.00
+ontbijt = 6.48
+lunch = 10.80
+diner = 17.28
+urencomp = 0.81
+
+[[tarief]]
+land = "Kameroen"
+regio = "Yaounde"
+logies = 156.00
+ontbijt = 15.36
+lunch = 25.60
+diner = 40.96
+urencomp = 1.92
+
+[[tarief]]
+land = "Kazachstan"
+regio = "Aktau"
+logies = 260.00
+ontbijt = 9.60
+lunch = 16.00
+diner = 25.60
+urencomp = 1.20
+
+[[tarief]]
+land = "Kazachstan"
+regio = "Almaty"
+logies = 370.00
+ontbijt = 27.24
+lunch = 45.40
+diner = 72.64
+urencomp = 3.41
+
+[[tarief]]
+land = "Kazachstan"
+regio = "Astana"
+logies = 339.00
+ontbijt = 9.96
+lunch = 16.60
+diner = 26.56
+urencomp = 1.25
+
+[[tarief]]
+land = "Kazachstan"
+regio = "Atyrau"
+logies = 86.00
+ontbijt = 6.60
+lunch = 11.00
+diner = 17.60
+urencomp = 0.83
+
+[[tarief]]
+land = "Kazachstan"
+regio = "Overig"
+logies = 76.00
+ontbijt = 6.60
+lunch = 11.00
+diner = 17.60
+urencomp = 0.83
+
+[[tarief]]
+land = "Kazachstan"
+regio = "Schuchinsk-Burabay"
+logies = 153.00
+ontbijt = 7.20
+lunch = 12.00
+diner = 19.20
+urencomp = 0.90
+
+[[tarief]]
+land = "Kazachstan"
+regio = "Shymkent"
+logies = 88.00
+ontbijt = 6.24
+lunch = 10.40
+diner = 16.64
+urencomp = 0.78
+
+[[tarief]]
+land = "Kazachstan"
+regio = "Turkestan"
+logies = 94.00
+ontbijt = 7.80
+lunch = 13.00
+diner = 20.80
+urencomp = 0.98
+
+[[tarief]]
+land = "Kazachstan"
+regio = "Ust-Kamenogorsk"
+logies = 80.00
+ontbijt = 7.20
+lunch = 12.00
+diner = 19.20
+urencomp = 0.90
+
+[[tarief]]
+land = "Kenia"
+regio = "Nairobi"
+logies = 202.00
+ontbijt = 12.48
+lunch = 20.80
+diner = 33.28
+urencomp = 1.56
+
+[[tarief]]
+land = "Kenia"
+regio = "Overig"
+logies = 146.00
+ontbijt = 7.92
+lunch = 13.20
+diner = 21.12
+urencomp = 0.99
+
+[[tarief]]
+land = "Kirgistan"
+regio = "Bishkek"
+logies = 177.00
+ontbijt = 7.20
+lunch = 12.00
+diner = 19.20
+urencomp = 0.90
+
+[[tarief]]
+land = "Kirgistan"
+regio = "Overig"
+logies = 101.00
+ontbijt = 4.68
+lunch = 7.80
+diner = 12.48
+urencomp = 0.59
+
+[[tarief]]
+land = "Kiribati"
+regio = "Kiritimati (Christmaseiland)"
+logies = 65.00
+ontbijt = 4.80
+lunch = 8.00
+diner = 12.80
+urencomp = 0.60
+
+[[tarief]]
+land = "Kiribati"
+regio = "Overig"
+logies = 74.00
+ontbijt = 5.52
+lunch = 9.20
+diner = 14.72
+urencomp = 0.69
+
+[[tarief]]
+land = "Koeweit"
+regio = "Koeweit-Stad"
+logies = 301.00
+ontbijt = 17.88
+lunch = 29.80
+diner = 47.68
+urencomp = 2.24
+
+[[tarief]]
+land = "Kosovo"
+regio = "Kosovo"
+logies = 102.00
+ontbijt = 6.24
+lunch = 10.40
+diner = 16.64
+urencomp = 0.78
+
+[[tarief]]
+land = "Kroatië"
+regio = "Brijuni"
+logies = 111.00
+ontbijt = 8.52
+lunch = 14.20
+diner = 22.72
+urencomp = 1.07
+
+[[tarief]]
+land = "Kroatië"
+regio = "Dubrovnik"
+logies = 160.00
+ontbijt = 13.92
+lunch = 23.20
+diner = 37.12
+urencomp = 1.74
+
+[[tarief]]
+land = "Kroatië"
+regio = "Opatija"
+logies = 141.00
+ontbijt = 16.92
+lunch = 28.20
+diner = 45.12
+urencomp = 2.12
+
+[[tarief]]
+land = "Kroatië"
+regio = "Overig"
+logies = 115.00
+ontbijt = 7.44
+lunch = 12.40
+diner = 19.84
+urencomp = 0.93
+
+[[tarief]]
+land = "Kroatië"
+regio = "Sibenik"
+logies = 136.00
+ontbijt = 12.84
+lunch = 21.40
+diner = 34.24
+urencomp = 1.61
+
+[[tarief]]
+land = "Kroatië"
+regio = "Split"
+logies = 171.00
+ontbijt = 12.12
+lunch = 20.20
+diner = 32.32
+urencomp = 1.52
+
+[[tarief]]
+land = "Kroatië"
+regio = "Zadar"
+logies = 133.00
+ontbijt = 13.08
+lunch = 21.80
+diner = 34.88
+urencomp = 1.64
+
+[[tarief]]
+land = "Kroatië"
+regio = "Zagreb"
+logies = 203.00
+ontbijt = 19.08
+lunch = 31.80
+diner = 50.88
+urencomp = 2.39
+
+[[tarief]]
+land = "Laos"
+regio = "Overig"
+logies = 129.00
+ontbijt = 6.96
+lunch = 11.60
+diner = 18.56
+urencomp = 0.87
+
+[[tarief]]
+land = "Laos"
+regio = "Vientiane"
+logies = 121.00
+ontbijt = 10.08
+lunch = 16.80
+diner = 26.88
+urencomp = 1.26
+
+[[tarief]]
+land = "Lesotho"
+regio = "Maseru"
+logies = 124.00
+ontbijt = 5.88
+lunch = 9.80
+diner = 15.68
+urencomp = 0.74
+
+[[tarief]]
+land = "Lesotho"
+regio = "Overig"
+logies = 243.00
+ontbijt = 5.04
+lunch = 8.40
+diner = 13.44
+urencomp = 0.63
+
+[[tarief]]
+land = "Letland"
+regio = "Overig"
+logies = 188.00
+ontbijt = 10.44
+lunch = 17.40
+diner = 27.84
+urencomp = 1.31
+
+[[tarief]]
+land = "Letland"
+regio = "Riga"
+logies = 152.00
+ontbijt = 11.16
+lunch = 18.60
+diner = 29.76
+urencomp = 1.40
+
+[[tarief]]
+land = "Libanon"
+regio = "Beiroet"
+logies = 143.00
+ontbijt = 13.44
+lunch = 22.40
+diner = 35.84
+urencomp = 1.68
+
+[[tarief]]
+land = "Libanon"
+regio = "Overig"
+logies = 224.00
+ontbijt = 12.36
+lunch = 20.60
+diner = 32.96
+urencomp = 1.55
+
+[[tarief]]
+land = "Liberia"
+regio = "Monrovia"
+logies = 223.00
+ontbijt = 9.12
+lunch = 15.20
+diner = 24.32
+urencomp = 1.14
+
+[[tarief]]
+land = "Liberia"
+regio = "Overig"
+logies = 215.00
+ontbijt = 6.12
+lunch = 10.20
+diner = 16.32
+urencomp = 0.77
+
+[[tarief]]
+land = "Libië"
+regio = "Overig"
+logies = 117.00
+ontbijt = 6.36
+lunch = 10.60
+diner = 16.96
+urencomp = 0.80
+
+[[tarief]]
+land = "Libië"
+regio = "Tripoli"
+logies = 189.00
+ontbijt = 13.92
+lunch = 23.20
+diner = 37.12
+urencomp = 1.74
+
+[[tarief]]
+land = "Liechtenstein"
+regio = "Vaduz"
+logies = 238.00
+ontbijt = 17.52
+lunch = 29.20
+diner = 46.72
+urencomp = 2.19
+
+[[tarief]]
+land = "Litouwen"
+regio = "Overig"
+logies = 80.00
+ontbijt = 5.64
+lunch = 9.40
+diner = 15.04
+urencomp = 0.71
+
+[[tarief]]
+land = "Litouwen"
+regio = "Vilnius"
+logies = 117.00
+ontbijt = 8.64
+lunch = 14.40
+diner = 23.04
+urencomp = 1.08
+
+[[tarief]]
+land = "Luxemburg"
+regio = "Luxemburg"
+logies = 275.00
+ontbijt = 17.04
+lunch = 28.40
+diner = 45.44
+urencomp = 2.13
+
+[[tarief]]
+land = "Maagdeneilanden (Amerikaanse)"
+regio = "Maagdeneilanden (Amerikaanse)"
+logies = 318.00
+ontbijt = 15.00
+lunch = 25.00
+diner = 40.00
+urencomp = 1.88
+
+[[tarief]]
+land = "Maagdeneilanden (Britse)"
+regio = "Maagdeneilanden (Britse)"
+logies = 212.00
+ontbijt = 13.20
+lunch = 22.00
+diner = 35.20
+urencomp = 1.65
+
+[[tarief]]
+land = "Madagascar"
+regio = "Antananarivo"
+logies = 231.00
+ontbijt = 13.80
+lunch = 23.00
+diner = 36.80
+urencomp = 1.73
+
+[[tarief]]
+land = "Madagascar"
+regio = "Overig"
+logies = 230.00
+ontbijt = 6.72
+lunch = 11.20
+diner = 17.92
+urencomp = 0.84
+
+[[tarief]]
+land = "Malawi"
+regio = "Lilongwe"
+logies = 170.00
+ontbijt = 11.52
+lunch = 19.20
+diner = 30.72
+urencomp = 1.44
+
+[[tarief]]
+land = "Malawi"
+regio = "Overig"
+logies = 243.00
+ontbijt = 7.92
+lunch = 13.20
+diner = 21.12
+urencomp = 0.99
+
+[[tarief]]
+land = "Malediven"
+regio = "Malé"
+logies = 285.00
+ontbijt = 10.44
+lunch = 17.40
+diner = 27.84
+urencomp = 1.31
+
+[[tarief]]
+land = "Malediven"
+regio = "Overig"
+logies = 350.00
+ontbijt = 16.20
+lunch = 27.00
+diner = 43.20
+urencomp = 2.03
+
+[[tarief]]
+land = "Maleisië"
+regio = "Kuala Lumpur"
+logies = 140.00
+ontbijt = 9.48
+lunch = 15.80
+diner = 25.28
+urencomp = 1.19
+
+[[tarief]]
+land = "Maleisië"
+regio = "Overig"
+logies = 127.00
+ontbijt = 8.04
+lunch = 13.40
+diner = 21.44
+urencomp = 1.01
+
+[[tarief]]
+land = "Mali"
+regio = "Bamako"
+logies = 189.00
+ontbijt = 11.28
+lunch = 18.80
+diner = 30.08
+urencomp = 1.41
+
+[[tarief]]
+land = "Mali"
+regio = "Overig"
+logies = 60.00
+ontbijt = 3.84
+lunch = 6.40
+diner = 10.24
+urencomp = 0.48
+
+[[tarief]]
+land = "Malta"
+regio = "Malta Island"
+logies = 302.00
+ontbijt = 18.00
+lunch = 30.00
+diner = 48.00
+urencomp = 2.25
+
+[[tarief]]
+land = "Malta"
+regio = "Overig"
+logies = 117.00
+ontbijt = 15.12
+lunch = 25.20
+diner = 40.32
+urencomp = 1.89
+
+[[tarief]]
+land = "Marokko"
+regio = "Overig"
+logies = 295.00
+ontbijt = 13.20
+lunch = 22.00
+diner = 35.20
+urencomp = 1.65
+
+[[tarief]]
+land = "Marokko"
+regio = "Rabat"
+logies = 186.00
+ontbijt = 18.96
+lunch = 31.60
+diner = 50.56
+urencomp = 2.37
+
+[[tarief]]
+land = "Marshall Eilanden"
+regio = "Majuro"
+logies = 108.00
+ontbijt = 9.00
+lunch = 15.00
+diner = 24.00
+urencomp = 1.13
+
+[[tarief]]
+land = "Marshall Eilanden"
+regio = "Overig"
+logies = 107.00
+ontbijt = 10.68
+lunch = 17.80
+diner = 28.48
+urencomp = 1.34
+
+[[tarief]]
+land = "Mauritanië"
+regio = "Nouakchott"
+logies = 130.00
+ontbijt = 10.44
+lunch = 17.40
+diner = 27.84
+urencomp = 1.31
+
+[[tarief]]
+land = "Mauritanië"
+regio = "Overig"
+logies = 55.00
+ontbijt = 3.84
+lunch = 6.40
+diner = 10.24
+urencomp = 0.48
+
+[[tarief]]
+land = "Mauritius"
+regio = "Overig"
+logies = 263.00
+ontbijt = 8.88
+lunch = 14.80
+diner = 23.68
+urencomp = 1.11
+
+[[tarief]]
+land = "Mauritius"
+regio = "Port Louis"
+logies = 140.00
+ontbijt = 9.96
+lunch = 16.60
+diner = 26.56
+urencomp = 1.25
+
+[[tarief]]
+land = "Mexico"
+regio = "Mexico-Stad"
+logies = 275.00
+ontbijt = 12.96
+lunch = 21.60
+diner = 34.56
+urencomp = 1.62
+
+[[tarief]]
+land = "Mexico"
+regio = "Overig"
+logies = 280.00
+ontbijt = 10.32
+lunch = 17.20
+diner = 27.52
+urencomp = 1.29
+
+[[tarief]]
+land = "Micronesië"
+regio = "Overig"
+logies = 135.00
+ontbijt = 9.00
+lunch = 15.00
+diner = 24.00
+urencomp = 1.13
+
+[[tarief]]
+land = "Micronesië"
+regio = "Truk"
+logies = 110.00
+ontbijt = 10.80
+lunch = 18.00
+diner = 28.80
+urencomp = 1.35
+
+[[tarief]]
+land = "Moldavië"
+regio = "Chisinau"
+logies = 153.00
+ontbijt = 9.96
+lunch = 16.60
+diner = 26.56
+urencomp = 1.25
+
+[[tarief]]
+land = "Moldavië"
+regio = "Overig"
+logies = 83.00
+ontbijt = 6.12
+lunch = 10.20
+diner = 16.32
+urencomp = 0.77
+
+[[tarief]]
+land = "Monaco"
+regio = "Monaco"
+logies = 179.00
+ontbijt = 12.12
+lunch = 20.20
+diner = 32.32
+urencomp = 1.52
+
+[[tarief]]
+land = "Mongolië"
+regio = "Overig"
+logies = 61.00
+ontbijt = 4.68
+lunch = 7.80
+diner = 12.48
+urencomp = 0.59
+
+[[tarief]]
+land = "Mongolië"
+regio = "Ulaanbaatar"
+logies = 244.00
+ontbijt = 14.52
+lunch = 24.20
+diner = 38.72
+urencomp = 1.82
+
+[[tarief]]
+land = "Montenegro-Bar,Becic,Kotor,Tivat,Hrcg-Nov,Ulcinj"
+regio = "Montenegro-Bar,Becic,Kotor,Tivat,Hrcg-Nov,Ulcinj"
+logies = 176.00
+ontbijt = 8.40
+lunch = 14.00
+diner = 22.40
+urencomp = 1.05
+
+[[tarief]]
+land = "Montenegro"
+regio = "Overig"
+logies = 60.00
+ontbijt = 4.80
+lunch = 8.00
+diner = 12.80
+urencomp = 0.60
+
+[[tarief]]
+land = "Montenegro"
+regio = "Podgorica"
+logies = 139.00
+ontbijt = 11.04
+lunch = 18.40
+diner = 29.44
+urencomp = 1.38
+
+[[tarief]]
+land = "Montserrat"
+regio = "Montserrat"
+logies = 127.00
+ontbijt = 9.00
+lunch = 15.00
+diner = 24.00
+urencomp = 1.13
+
+[[tarief]]
+land = "Mozambique"
+regio = "Maputo"
+logies = 158.00
+ontbijt = 11.16
+lunch = 18.60
+diner = 29.76
+urencomp = 1.40
+
+[[tarief]]
+land = "Mozambique"
+regio = "Overig"
+logies = 147.00
+ontbijt = 9.96
+lunch = 16.60
+diner = 26.56
+urencomp = 1.25
+
+[[tarief]]
+land = "Myanmar"
+regio = "Naypyitaw"
+logies = 60.00
+ontbijt = 7.08
+lunch = 11.80
+diner = 18.88
+urencomp = 0.89
+
+[[tarief]]
+land = "Myanmar"
+regio = "Overig"
+logies = 193.00
+ontbijt = 5.64
+lunch = 9.40
+diner = 15.04
+urencomp = 0.71
+
+[[tarief]]
+land = "Namibië"
+regio = "Overig"
+logies = 222.00
+ontbijt = 5.88
+lunch = 9.80
+diner = 15.68
+urencomp = 0.74
+
+[[tarief]]
+land = "Namibië"
+regio = "Windhoek"
+logies = 86.00
+ontbijt = 6.60
+lunch = 11.00
+diner = 17.60
+urencomp = 0.83
+
+[[tarief]]
+land = "Nauru"
+regio = "Nauru"
+logies = 118.00
+ontbijt = 6.12
+lunch = 10.20
+diner = 16.32
+urencomp = 0.77
+
+[[tarief]]
+land = "Nepal"
+regio = "Kathmandu"
+logies = 201.00
+ontbijt = 9.96
+lunch = 16.60
+diner = 26.56
+urencomp = 1.25
+
+[[tarief]]
+land = "Nepal"
+regio = "Overig"
+logies = 257.00
+ontbijt = 4.56
+lunch = 7.60
+diner = 12.16
+urencomp = 0.57
+
+[[tarief]]
+land = "Nicaragua"
+regio = "Managua"
+logies = 82.00
+ontbijt = 7.20
+lunch = 12.00
+diner = 19.20
+urencomp = 0.90
+
+[[tarief]]
+land = "Nicaragua"
+regio = "Overig"
+logies = 77.00
+ontbijt = 5.52
+lunch = 9.20
+diner = 14.72
+urencomp = 0.69
+
+[[tarief]]
+land = "Nieuw-Caledonië"
+regio = "Nieuw-Caledonië"
+logies = 191.00
+ontbijt = 10.80
+lunch = 18.00
+diner = 28.80
+urencomp = 1.35
+
+[[tarief]]
+land = "Nieuw-Zeeland"
+regio = "Auckland en Wellington"
+logies = 151.00
+ontbijt = 10.20
+lunch = 17.00
+diner = 27.20
+urencomp = 1.28
+
+[[tarief]]
+land = "Nieuw-Zeeland"
+regio = "Overig"
+logies = 137.00
+ontbijt = 9.72
+lunch = 16.20
+diner = 25.92
+urencomp = 1.22
+
+[[tarief]]
+land = "Niger"
+regio = "Niamey"
+logies = 182.00
+ontbijt = 11.76
+lunch = 19.60
+diner = 31.36
+urencomp = 1.47
+
+[[tarief]]
+land = "Niger"
+regio = "Overig"
+logies = 51.00
+ontbijt = 4.80
+lunch = 8.00
+diner = 12.80
+urencomp = 0.60
+
+[[tarief]]
+land = "Nigeria"
+regio = "Abuja"
+logies = 140.00
+ontbijt = 9.12
+lunch = 15.20
+diner = 24.32
+urencomp = 1.14
+
+[[tarief]]
+land = "Nigeria"
+regio = "Overig"
+logies = 163.00
+ontbijt = 6.36
+lunch = 10.60
+diner = 16.96
+urencomp = 0.80
+
+[[tarief]]
+land = "Niue"
+regio = "Niue"
+logies = 139.00
+ontbijt = 6.60
+lunch = 11.00
+diner = 17.60
+urencomp = 0.83
+
+[[tarief]]
+land = "Noord Macedonië"
+regio = "Ohrid en Struga"
+logies = 59.00
+ontbijt = 4.32
+lunch = 7.20
+diner = 11.52
+urencomp = 0.54
+
+[[tarief]]
+land = "Noord Macedonië"
+regio = "Overig"
+logies = 45.00
+ontbijt = 4.32
+lunch = 7.20
+diner = 11.52
+urencomp = 0.54
+
+[[tarief]]
+land = "Noord Macedonië"
+regio = "Skopje"
+logies = 136.00
+ontbijt = 10.92
+lunch = 18.20
+diner = 29.12
+urencomp = 1.37
+
+[[tarief]]
+land = "Noord-Korea"
+regio = "Overig"
+logies = 59.00
+ontbijt = 3.84
+lunch = 6.40
+diner = 10.24
+urencomp = 0.48
+
+[[tarief]]
+land = "Noord-Korea"
+regio = "Pyongyang"
+logies = 168.00
+ontbijt = 7.56
+lunch = 12.60
+diner = 20.16
+urencomp = 0.95
+
+[[tarief]]
+land = "Noorwegen"
+regio = "Noorwegen"
+logies = 190.00
+ontbijt = 17.16
+lunch = 28.60
+diner = 45.76
+urencomp = 2.15
+
+[[tarief]]
+land = "Oeganda"
+regio = "Kampala"
+logies = 214.00
+ontbijt = 13.32
+lunch = 22.20
+diner = 35.52
+urencomp = 1.67
+
+[[tarief]]
+land = "Oeganda"
+regio = "Overig"
+logies = 291.00
+ontbijt = 6.24
+lunch = 10.40
+diner = 16.64
+urencomp = 0.78
+
+[[tarief]]
+land = "Oekraïne"
+regio = "Kiev"
+logies = 185.00
+ontbijt = 13.08
+lunch = 21.80
+diner = 34.88
+urencomp = 1.64
+
+[[tarief]]
+land = "Oekraïne"
+regio = "Overig"
+logies = 95.00
+ontbijt = 6.36
+lunch = 10.60
+diner = 16.96
+urencomp = 0.80
+
+[[tarief]]
+land = "Oezbekistan"
+regio = "Overig"
+logies = 202.00
+ontbijt = 7.32
+lunch = 12.20
+diner = 19.52
+urencomp = 0.92
+
+[[tarief]]
+land = "Oezbekistan"
+regio = "Tashkent"
+logies = 248.00
+ontbijt = 11.16
+lunch = 18.60
+diner = 29.76
+urencomp = 1.40
+
+[[tarief]]
+land = "Oman"
+regio = "Muscat"
+logies = 366.00
+ontbijt = 17.28
+lunch = 28.80
+diner = 46.08
+urencomp = 2.16
+
+[[tarief]]
+land = "Oman"
+regio = "Overig"
+logies = 184.00
+ontbijt = 10.20
+lunch = 17.00
+diner = 27.20
+urencomp = 1.28
+
+[[tarief]]
+land = "Oostenrijk"
+regio = "Oostenrijk"
+logies = 145.00
+ontbijt = 14.76
+lunch = 24.60
+diner = 39.36
+urencomp = 1.85
+
+[[tarief]]
+land = "Oost-Timor"
+regio = "Dili"
+logies = 189.00
+ontbijt = 7.32
+lunch = 12.20
+diner = 19.52
+urencomp = 0.92
+
+[[tarief]]
+land = "Oost-Timor"
+regio = "Overig"
+logies = 81.00
+ontbijt = 3.84
+lunch = 6.40
+diner = 10.24
+urencomp = 0.48
+
+[[tarief]]
+land = "Pakistan"
+regio = "Islamabad"
+logies = 240.00
+ontbijt = 8.40
+lunch = 14.00
+diner = 22.40
+urencomp = 1.05
+
+[[tarief]]
+land = "Pakistan"
+regio = "Overig"
+logies = 179.00
+ontbijt = 5.04
+lunch = 8.40
+diner = 13.44
+urencomp = 0.63
+
+[[tarief]]
+land = "Palau"
+regio = "Palau"
+logies = 178.00
+ontbijt = 10.08
+lunch = 16.80
+diner = 26.88
+urencomp = 1.26
+
+[[tarief]]
+land = "Panama"
+regio = "Overig"
+logies = 146.00
+ontbijt = 12.36
+lunch = 20.60
+diner = 32.96
+urencomp = 1.55
+
+[[tarief]]
+land = "Panama"
+regio = "Panamá"
+logies = 99.00
+ontbijt = 10.92
+lunch = 18.20
+diner = 29.12
+urencomp = 1.37
+
+[[tarief]]
+land = "Papoea-Nieuw-Guinea"
+regio = "Overig"
+logies = 202.00
+ontbijt = 7.20
+lunch = 12.00
+diner = 19.20
+urencomp = 0.90
+
+[[tarief]]
+land = "Papoea-Nieuw-Guinea"
+regio = "Port Moresby"
+logies = 296.00
+ontbijt = 10.92
+lunch = 18.20
+diner = 29.12
+urencomp = 1.37
+
+[[tarief]]
+land = "Paraguay"
+regio = "Asunción"
+logies = 86.00
+ontbijt = 10.68
+lunch = 17.80
+diner = 28.48
+urencomp = 1.34
+
+[[tarief]]
+land = "Paraguay"
+regio = "Overig"
+logies = 120.00
+ontbijt = 7.44
+lunch = 12.40
+diner = 19.84
+urencomp = 0.93
+
+[[tarief]]
+land = "Peru"
+regio = "Lima"
+logies = 205.00
+ontbijt = 10.20
+lunch = 17.00
+diner = 27.20
+urencomp = 1.28
+
+[[tarief]]
+land = "Peru"
+regio = "Overig"
+logies = 128.00
+ontbijt = 8.52
+lunch = 14.20
+diner = 22.72
+urencomp = 1.07
+
+[[tarief]]
+land = "Polen"
+regio = "Overig"
+logies = 113.00
+ontbijt = 9.48
+lunch = 15.80
+diner = 25.28
+urencomp = 1.19
+
+[[tarief]]
+land = "Polen"
+regio = "Warsaw"
+logies = 156.00
+ontbijt = 12.00
+lunch = 20.00
+diner = 32.00
+urencomp = 1.50
+
+[[tarief]]
+land = "Portugal"
+regio = "Lissabon"
+logies = 164.00
+ontbijt = 12.12
+lunch = 20.20
+diner = 32.32
+urencomp = 1.52
+
+[[tarief]]
+land = "Portugal"
+regio = "Overig"
+logies = 184.00
+ontbijt = 11.04
+lunch = 18.40
+diner = 29.44
+urencomp = 1.38
+
+[[tarief]]
+land = "Qatar"
+regio = "Doha"
+logies = 179.00
+ontbijt = 13.68
+lunch = 22.80
+diner = 36.48
+urencomp = 1.71
+
+[[tarief]]
+land = "Roemenië"
+regio = "Boekarest"
+logies = 114.00
+ontbijt = 9.12
+lunch = 15.20
+diner = 24.32
+urencomp = 1.14
+
+[[tarief]]
+land = "Roemenië-Brasov,Craiova,Cluj,Constanta,Iasi,Sinaia"
+regio = "Roemenië-Brasov,Craiova,Cluj,Constanta,Iasi,Sinaia"
+logies = 94.00
+ontbijt = 7.80
+lunch = 13.00
+diner = 20.80
+urencomp = 0.98
+
+[[tarief]]
+land = "Roemenië"
+regio = "Olimp"
+logies = 152.00
+ontbijt = 8.64
+lunch = 14.40
+diner = 23.04
+urencomp = 1.08
+
+[[tarief]]
+land = "Roemenië"
+regio = "Overig"
+logies = 62.00
+ontbijt = 5.88
+lunch = 9.80
+diner = 15.68
+urencomp = 0.74
+
+[[tarief]]
+land = "Roemenië"
+regio = "Predeal, Suceava"
+logies = 78.00
+ontbijt = 6.48
+lunch = 10.80
+diner = 17.28
+urencomp = 0.81
+
+[[tarief]]
+land = "Roemenië-Timisoara,Sibiu,Galati,Mamaia,Oradea"
+regio = "Roemenië-Timisoara,Sibiu,Galati,Mamaia,Oradea"
+logies = 86.00
+ontbijt = 6.84
+lunch = 11.40
+diner = 18.24
+urencomp = 0.86
+
+[[tarief]]
+land = "Rusland"
+regio = "Anapa"
+logies = 122.00
+ontbijt = 7.32
+lunch = 12.20
+diner = 19.52
+urencomp = 0.92
+
+[[tarief]]
+land = "Rusland"
+regio = "Kaliningrad"
+logies = 103.00
+ontbijt = 8.64
+lunch = 14.40
+diner = 23.04
+urencomp = 1.08
+
+[[tarief]]
+land = "Rusland"
+regio = "Kazan"
+logies = 114.00
+ontbijt = 9.12
+lunch = 15.20
+diner = 24.32
+urencomp = 1.14
+
+[[tarief]]
+land = "Rusland"
+regio = "Moermansk"
+logies = 101.00
+ontbijt = 7.80
+lunch = 13.00
+diner = 20.80
+urencomp = 0.98
+
+[[tarief]]
+land = "Rusland"
+regio = "Moskou"
+logies = 444.00
+ontbijt = 16.32
+lunch = 27.20
+diner = 43.52
+urencomp = 2.04
+
+[[tarief]]
+land = "Rusland"
+regio = "Overig"
+logies = 81.00
+ontbijt = 6.48
+lunch = 10.80
+diner = 17.28
+urencomp = 0.81
+
+[[tarief]]
+land = "Rusland"
+regio = "Roza Khutor"
+logies = 273.00
+ontbijt = 12.24
+lunch = 20.40
+diner = 32.64
+urencomp = 1.53
+
+[[tarief]]
+land = "Rusland"
+regio = "Samara"
+logies = 94.00
+ontbijt = 6.84
+lunch = 11.40
+diner = 18.24
+urencomp = 0.86
+
+[[tarief]]
+land = "Rusland"
+regio = "Sochi"
+logies = 426.00
+ontbijt = 20.16
+lunch = 33.60
+diner = 53.76
+urencomp = 2.52
+
+[[tarief]]
+land = "Rusland"
+regio = "St. Petersburg"
+logies = 259.00
+ontbijt = 21.60
+lunch = 36.00
+diner = 57.60
+urencomp = 2.70
+
+[[tarief]]
+land = "Rusland"
+regio = "Velikiy Novgorod"
+logies = 109.00
+ontbijt = 6.84
+lunch = 11.40
+diner = 18.24
+urencomp = 0.86
+
+[[tarief]]
+land = "Rusland"
+regio = "Vladivostok"
+logies = 331.00
+ontbijt = 13.56
+lunch = 22.60
+diner = 36.16
+urencomp = 1.70
+
+[[tarief]]
+land = "Rwanda"
+regio = "Kigali"
+logies = 259.00
+ontbijt = 12.84
+lunch = 21.40
+diner = 34.24
+urencomp = 1.61
+
+[[tarief]]
+land = "Rwanda"
+regio = "Overig"
+logies = 241.00
+ontbijt = 7.20
+lunch = 12.00
+diner = 19.20
+urencomp = 0.90
+
+[[tarief]]
+land = "Saba"
+regio = "Saba"
+logies = 182.00
+ontbijt = 13.92
+lunch = 23.20
+diner = 37.12
+urencomp = 1.74
+
+[[tarief]]
+land = "Salomons Eilanden"
+regio = "Honiara"
+logies = 284.00
+ontbijt = 16.92
+lunch = 28.20
+diner = 45.12
+urencomp = 2.12
+
+[[tarief]]
+land = "Salomons Eilanden"
+regio = "Overig"
+logies = 129.00
+ontbijt = 8.28
+lunch = 13.80
+diner = 22.08
+urencomp = 1.04
+
+[[tarief]]
+land = "Samoa"
+regio = "Apia, Upolu"
+logies = 160.00
+ontbijt = 8.76
+lunch = 14.60
+diner = 23.36
+urencomp = 1.10
+
+[[tarief]]
+land = "Samoa"
+regio = "Overig"
+logies = 150.00
+ontbijt = 8.04
+lunch = 13.40
+diner = 21.44
+urencomp = 1.01
+
+[[tarief]]
+land = "Sao Tomé en Principe"
+regio = "Overig"
+logies = 333.00
+ontbijt = 11.64
+lunch = 19.40
+diner = 31.04
+urencomp = 1.46
+
+[[tarief]]
+land = "Sao Tomé en Principe"
+regio = "Sao Tomé"
+logies = 167.00
+ontbijt = 12.24
+lunch = 20.40
+diner = 32.64
+urencomp = 1.53
+
+[[tarief]]
+land = "Saoedi-Arabië"
+regio = "Overig"
+logies = 223.00
+ontbijt = 18.96
+lunch = 31.60
+diner = 50.56
+urencomp = 2.37
+
+[[tarief]]
+land = "Saoedi-Arabië"
+regio = "Riyad"
+logies = 197.00
+ontbijt = 14.52
+lunch = 24.20
+diner = 38.72
+urencomp = 1.82
+
+[[tarief]]
+land = "Senegal"
+regio = "Dakar"
+logies = 198.00
+ontbijt = 15.84
+lunch = 26.40
+diner = 42.24
+urencomp = 1.98
+
+[[tarief]]
+land = "Senegal"
+regio = "Overig"
+logies = 199.00
+ontbijt = 11.04
+lunch = 18.40
+diner = 29.44
+urencomp = 1.38
+
+[[tarief]]
+land = "Servië"
+regio = "Belgrado"
+logies = 133.00
+ontbijt = 11.52
+lunch = 19.20
+diner = 30.72
+urencomp = 1.44
+
+[[tarief]]
+land = "Servië"
+regio = "Overig"
+logies = 120.00
+ontbijt = 7.56
+lunch = 12.60
+diner = 20.16
+urencomp = 0.95
+
+[[tarief]]
+land = "Seychellen"
+regio = "Overig"
+logies = 207.00
+ontbijt = 9.84
+lunch = 16.40
+diner = 26.24
+urencomp = 1.23
+
+[[tarief]]
+land = "Seychellen"
+regio = "Victoria"
+logies = 207.00
+ontbijt = 15.24
+lunch = 25.40
+diner = 40.64
+urencomp = 1.91
+
+[[tarief]]
+land = "Sierra Leone"
+regio = "Freetown"
+logies = 195.00
+ontbijt = 7.56
+lunch = 12.60
+diner = 20.16
+urencomp = 0.95
+
+[[tarief]]
+land = "Sierra Leone"
+regio = "Overig"
+logies = 79.00
+ontbijt = 4.08
+lunch = 6.80
+diner = 10.88
+urencomp = 0.51
+
+[[tarief]]
+land = "Singapore"
+regio = "Singapore"
+logies = 258.00
+ontbijt = 14.04
+lunch = 23.40
+diner = 37.44
+urencomp = 1.76
+
+[[tarief]]
+land = "Sint Eustatius"
+regio = "Sint Eustatius"
+logies = 182.00
+ontbijt = 13.92
+lunch = 23.20
+diner = 37.12
+urencomp = 1.74
+
+[[tarief]]
+land = "Sint Maarten"
+regio = "Sint Maarten"
+logies = 154.00
+ontbijt = 20.76
+lunch = 34.60
+diner = 55.36
+urencomp = 2.60
+
+[[tarief]]
+land = "Slovenië"
+regio = "Slovenië"
+logies = 119.00
+ontbijt = 14.88
+lunch = 24.80
+diner = 39.68
+urencomp = 1.86
+
+[[tarief]]
+land = "Slowakije"
+regio = "Bratislava"
+logies = 131.00
+ontbijt = 8.88
+lunch = 14.80
+diner = 23.68
+urencomp = 1.11
+
+[[tarief]]
+land = "Slowakije"
+regio = "Overig"
+logies = 115.00
+ontbijt = 7.44
+lunch = 12.40
+diner = 19.84
+urencomp = 0.93
+
+[[tarief]]
+land = "Soedan"
+regio = "Khartoum"
+logies = 207.00
+ontbijt = 12.84
+lunch = 21.40
+diner = 34.24
+urencomp = 1.61
+
+[[tarief]]
+land = "Soedan"
+regio = "Overig"
+logies = 146.00
+ontbijt = 8.64
+lunch = 14.40
+diner = 23.04
+urencomp = 1.08
+
+[[tarief]]
+land = "Somalië"
+regio = "Mogadishu"
+logies = 131.00
+ontbijt = 5.40
+lunch = 9.00
+diner = 14.40
+urencomp = 0.68
+
+[[tarief]]
+land = "Somalië"
+regio = "Overig"
+logies = 149.00
+ontbijt = 4.92
+lunch = 8.20
+diner = 13.12
+urencomp = 0.62
+
+[[tarief]]
+land = "Spanje"
+regio = "Barcelona"
+logies = 251.00
+ontbijt = 14.28
+lunch = 23.80
+diner = 38.08
+urencomp = 1.79
+
+[[tarief]]
+land = "Spanje"
+regio = "Madrid"
+logies = 243.00
+ontbijt = 16.44
+lunch = 27.40
+diner = 43.84
+urencomp = 2.06
+
+[[tarief]]
+land = "Spanje"
+regio = "Overig"
+logies = 141.00
+ontbijt = 11.76
+lunch = 19.60
+diner = 31.36
+urencomp = 1.47
+
+[[tarief]]
+land = "Spanje"
+regio = "San Sebastian"
+logies = 260.00
+ontbijt = 15.48
+lunch = 25.80
+diner = 41.28
+urencomp = 1.94
+
+[[tarief]]
+land = "Spanje"
+regio = "Valencia"
+logies = 174.00
+ontbijt = 12.36
+lunch = 20.60
+diner = 32.96
+urencomp = 1.55
+
+[[tarief]]
+land = "Sri Lanka"
+regio = "Colombo"
+logies = 111.00
+ontbijt = 6.00
+lunch = 10.00
+diner = 16.00
+urencomp = 0.75
+
+[[tarief]]
+land = "Sri Lanka"
+regio = "Overig"
+logies = 188.00
+ontbijt = 6.12
+lunch = 10.20
+diner = 16.32
+urencomp = 0.77
+
+[[tarief]]
+land = "St. Lucia"
+regio = "St. Lucia"
+logies = 268.00
+ontbijt = 20.52
+lunch = 34.20
+diner = 54.72
+urencomp = 2.57
+
+[[tarief]]
+land = "St. Vincent en Grenada"
+regio = "St. Vincent en Grenada"
+logies = 176.00
+ontbijt = 11.40
+lunch = 19.00
+diner = 30.40
+urencomp = 1.43
+
+[[tarief]]
+land = "St.Kitts en Nevis"
+regio = "St.Kitts en Nevis"
+logies = 227.00
+ontbijt = 13.44
+lunch = 22.40
+diner = 35.84
+urencomp = 1.68
+
+[[tarief]]
+land = "Suriname"
+regio = "Overig"
+logies = 107.00
+ontbijt = 9.72
+lunch = 16.20
+diner = 25.92
+urencomp = 1.22
+
+[[tarief]]
+land = "Suriname"
+regio = "Paramaribo"
+logies = 189.00
+ontbijt = 16.44
+lunch = 27.40
+diner = 43.84
+urencomp = 2.06
+
+[[tarief]]
+land = "Syrië"
+regio = "Damascus"
+logies = 377.00
+ontbijt = 12.36
+lunch = 20.60
+diner = 32.96
+urencomp = 1.55
+
+[[tarief]]
+land = "Syrië"
+regio = "Overig"
+logies = 173.00
+ontbijt = 7.20
+lunch = 12.00
+diner = 19.20
+urencomp = 0.90
+
+[[tarief]]
+land = "Tadzjikistan"
+regio = "Dushanbe"
+logies = 86.00
+ontbijt = 7.44
+lunch = 12.40
+diner = 19.84
+urencomp = 0.93
+
+[[tarief]]
+land = "Tadzjikistan"
+regio = "Overig"
+logies = 93.00
+ontbijt = 4.68
+lunch = 7.80
+diner = 12.48
+urencomp = 0.59
+
+[[tarief]]
+land = "Taiwan"
+regio = "Overig"
+logies = 164.00
+ontbijt = 10.80
+lunch = 18.00
+diner = 28.80
+urencomp = 1.35
+
+[[tarief]]
+land = "Taiwan"
+regio = "Taipei"
+logies = 183.00
+ontbijt = 11.28
+lunch = 18.80
+diner = 30.08
+urencomp = 1.41
+
+[[tarief]]
+land = "Tanzania"
+regio = "Dar es Salaam"
+logies = 214.00
+ontbijt = 11.04
+lunch = 18.40
+diner = 29.44
+urencomp = 1.38
+
+[[tarief]]
+land = "Tanzania"
+regio = "Overig"
+logies = 412.00
+ontbijt = 10.92
+lunch = 18.20
+diner = 29.12
+urencomp = 1.37
+
+[[tarief]]
+land = "Thailand"
+regio = "Bangkok"
+logies = 364.00
+ontbijt = 15.60
+lunch = 26.00
+diner = 41.60
+urencomp = 1.95
+
+[[tarief]]
+land = "Thailand"
+regio = "Overig"
+logies = 296.00
+ontbijt = 7.32
+lunch = 12.20
+diner = 19.52
+urencomp = 0.92
+
+[[tarief]]
+land = "Togo"
+regio = "Lomé"
+logies = 138.00
+ontbijt = 14.64
+lunch = 24.40
+diner = 39.04
+urencomp = 1.83
+
+[[tarief]]
+land = "Togo"
+regio = "Overig"
+logies = 89.00
+ontbijt = 5.76
+lunch = 9.60
+diner = 15.36
+urencomp = 0.72
+
+[[tarief]]
+land = "Tokelau Eilanden"
+regio = "Tokelau Eilanden"
+logies = 41.00
+ontbijt = 3.00
+lunch = 5.00
+diner = 8.00
+urencomp = 0.38
+
+[[tarief]]
+land = "Tonga"
+regio = "Nuku'Alofa"
+logies = 235.00
+ontbijt = 13.32
+lunch = 22.20
+diner = 35.52
+urencomp = 1.67
+
+[[tarief]]
+land = "Tonga"
+regio = "Overig"
+logies = 302.00
+ontbijt = 12.96
+lunch = 21.60
+diner = 34.56
+urencomp = 1.62
+
+[[tarief]]
+land = "Trinidad en Tobago"
+regio = "Overig"
+logies = 186.00
+ontbijt = 13.08
+lunch = 21.80
+diner = 34.88
+urencomp = 1.64
+
+[[tarief]]
+land = "Trinidad en Tobago"
+regio = "Trinidad"
+logies = 164.00
+ontbijt = 13.68
+lunch = 22.80
+diner = 36.48
+urencomp = 1.71
+
+[[tarief]]
+land = "Tsjaad"
+regio = "Ndjamena"
+logies = 183.00
+ontbijt = 8.64
+lunch = 14.40
+diner = 23.04
+urencomp = 1.08
+
+[[tarief]]
+land = "Tsjaad"
+regio = "Overig"
+logies = 220.00
+ontbijt = 9.48
+lunch = 15.80
+diner = 25.28
+urencomp = 1.19
+
+[[tarief]]
+land = "Tsjechië"
+regio = "Brno"
+logies = 109.00
+ontbijt = 8.04
+lunch = 13.40
+diner = 21.44
+urencomp = 1.01
+
+[[tarief]]
+land = "Tsjechië"
+regio = "Cesky Krumlov"
+logies = 110.00
+ontbijt = 7.44
+lunch = 12.40
+diner = 19.84
+urencomp = 0.93
+
+[[tarief]]
+land = "Tsjechië"
+regio = "Karlovy Vary"
+logies = 184.00
+ontbijt = 9.96
+lunch = 16.60
+diner = 26.56
+urencomp = 1.25
+
+[[tarief]]
+land = "Tsjechië"
+regio = "Ostrava"
+logies = 94.00
+ontbijt = 5.88
+lunch = 9.80
+diner = 15.68
+urencomp = 0.74
+
+[[tarief]]
+land = "Tsjechië"
+regio = "Overig"
+logies = 78.00
+ontbijt = 5.28
+lunch = 8.80
+diner = 14.08
+urencomp = 0.66
+
+[[tarief]]
+land = "Tsjechië"
+regio = "Praag"
+logies = 134.00
+ontbijt = 8.76
+lunch = 14.60
+diner = 23.36
+urencomp = 1.10
+
+[[tarief]]
+land = "Tunesië"
+regio = "Overig"
+logies = 177.00
+ontbijt = 7.56
+lunch = 12.60
+diner = 20.16
+urencomp = 0.95
+
+[[tarief]]
+land = "Tunesië"
+regio = "Tunis"
+logies = 284.00
+ontbijt = 16.92
+lunch = 28.20
+diner = 45.12
+urencomp = 2.12
+
+[[tarief]]
+land = "Turkije"
+regio = "Ankara"
+logies = 269.00
+ontbijt = 21.48
+lunch = 35.80
+diner = 57.28
+urencomp = 2.69
+
+[[tarief]]
+land = "Turkije"
+regio = "Antalya"
+logies = 293.00
+ontbijt = 21.60
+lunch = 36.00
+diner = 57.60
+urencomp = 2.70
+
+[[tarief]]
+land = "Turkije"
+regio = "Istanbul"
+logies = 278.00
+ontbijt = 21.36
+lunch = 35.60
+diner = 56.96
+urencomp = 2.67
+
+[[tarief]]
+land = "Turkije"
+regio = "Izmir"
+logies = 201.00
+ontbijt = 15.36
+lunch = 25.60
+diner = 40.96
+urencomp = 1.92
+
+[[tarief]]
+land = "Turkije"
+regio = "Overig"
+logies = 101.00
+ontbijt = 8.40
+lunch = 14.00
+diner = 22.40
+urencomp = 1.05
+
+[[tarief]]
+land = "Turkmenistan"
+regio = "Asjchabad"
+logies = 163.00
+ontbijt = 34.92
+lunch = 58.20
+diner = 93.12
+urencomp = 4.37
+
+[[tarief]]
+land = "Turkmenistan"
+regio = "Overig"
+logies = 135.00
+ontbijt = 21.72
+lunch = 36.20
+diner = 57.92
+urencomp = 2.72
+
+[[tarief]]
+land = "Turks- en Caicos Eilanden"
+regio = "Grand Turk"
+logies = 246.00
+ontbijt = 12.84
+lunch = 21.40
+diner = 34.24
+urencomp = 1.61
+
+[[tarief]]
+land = "Turks- en Caicos Eilanden"
+regio = "Overig"
+logies = 407.00
+ontbijt = 16.56
+lunch = 27.60
+diner = 44.16
+urencomp = 2.07
+
+[[tarief]]
+land = "Tuvalu"
+regio = "Tuvalu"
+logies = 113.00
+ontbijt = 7.08
+lunch = 11.80
+diner = 18.88
+urencomp = 0.89
+
+[[tarief]]
+land = "Uruguay"
+regio = "Colonia"
+logies = 148.00
+ontbijt = 7.32
+lunch = 12.20
+diner = 19.52
+urencomp = 0.92
+
+[[tarief]]
+land = "Uruguay"
+regio = "Montevideo"
+logies = 123.00
+ontbijt = 8.28
+lunch = 13.80
+diner = 22.08
+urencomp = 1.04
+
+[[tarief]]
+land = "Uruguay"
+regio = "Overig"
+logies = 55.00
+ontbijt = 4.80
+lunch = 8.00
+diner = 12.80
+urencomp = 0.60
+
+[[tarief]]
+land = "Uruguay"
+regio = "Punta Del Este"
+logies = 186.00
+ontbijt = 11.52
+lunch = 19.20
+diner = 30.72
+urencomp = 1.44
+
+[[tarief]]
+land = "Uruguay"
+regio = "Salto"
+logies = 112.00
+ontbijt = 7.56
+lunch = 12.60
+diner = 20.16
+urencomp = 0.95
+
+[[tarief]]
+land = "Vanuatu"
+regio = "Overig"
+logies = 192.00
+ontbijt = 8.28
+lunch = 13.80
+diner = 22.08
+urencomp = 1.04
+
+[[tarief]]
+land = "Vanuatu"
+regio = "Port Villa"
+logies = 259.00
+ontbijt = 14.04
+lunch = 23.40
+diner = 37.44
+urencomp = 1.76
+
+[[tarief]]
+land = "Venezuela"
+regio = "Caracas"
+logies = 130.00
+ontbijt = 9.96
+lunch = 16.60
+diner = 26.56
+urencomp = 1.25
+
+[[tarief]]
+land = "Venezuela"
+regio = "Overig"
+logies = 155.00
+ontbijt = 7.80
+lunch = 13.00
+diner = 20.80
+urencomp = 0.98
+
+[[tarief]]
+land = "Verenigde Arabische Emiraten"
+regio = "Abu Dhabi"
+logies = 310.00
+ontbijt = 16.92
+lunch = 28.20
+diner = 45.12
+urencomp = 2.12
+
+[[tarief]]
+land = "Verenigde Arabische Emiraten"
+regio = "Overig"
+logies = 364.00
+ontbijt = 13.68
+lunch = 22.80
+diner = 36.48
+urencomp = 1.71
+
+[[tarief]]
+land = "Verenigde Staten van Amerika"
+regio = "Boston"
+logies = 210.00
+ontbijt = 14.28
+lunch = 23.80
+diner = 38.08
+urencomp = 1.79
+
+[[tarief]]
+land = "Verenigde Staten van Amerika"
+regio = "Chicago"
+logies = 186.00
+ontbijt = 11.52
+lunch = 19.20
+diner = 30.72
+urencomp = 1.44
+
+[[tarief]]
+land = "Verenigde Staten van Amerika"
+regio = "Honolulu"
+logies = 224.00
+ontbijt = 11.64
+lunch = 19.40
+diner = 31.04
+urencomp = 1.46
+
+[[tarief]]
+land = "Verenigde Staten van Amerika"
+regio = "Los Angeles"
+logies = 211.00
+ontbijt = 12.00
+lunch = 20.00
+diner = 32.00
+urencomp = 1.50
+
+[[tarief]]
+land = "Verenigde Staten van Amerika"
+regio = "Miami"
+logies = 176.00
+ontbijt = 11.40
+lunch = 19.00
+diner = 30.40
+urencomp = 1.43
+
+[[tarief]]
+land = "Verenigde Staten van Amerika"
+regio = "New York"
+logies = 574.00
+ontbijt = 18.96
+lunch = 31.60
+diner = 50.56
+urencomp = 2.37
+
+[[tarief]]
+land = "Verenigde Staten van Amerika"
+regio = "Overig"
+logies = 175.00
+ontbijt = 10.92
+lunch = 18.20
+diner = 29.12
+urencomp = 1.37
+
+[[tarief]]
+land = "Verenigde Staten van Amerika"
+regio = "Philadelphia"
+logies = 176.00
+ontbijt = 11.88
+lunch = 19.80
+diner = 31.68
+urencomp = 1.49
+
+[[tarief]]
+land = "Verenigde Staten van Amerika"
+regio = "San Francisco"
+logies = 249.00
+ontbijt = 14.16
+lunch = 23.60
+diner = 37.76
+urencomp = 1.77
+
+[[tarief]]
+land = "Verenigde Staten van Amerika"
+regio = "Washington D.C."
+logies = 197.00
+ontbijt = 16.32
+lunch = 27.20
+diner = 43.52
+urencomp = 2.04
+
+[[tarief]]
+land = "Vietnam"
+regio = "Hanoi"
+logies = 112.00
+ontbijt = 9.36
+lunch = 15.60
+diner = 24.96
+urencomp = 1.17
+
+[[tarief]]
+land = "Vietnam"
+regio = "Overig"
+logies = 101.00
+ontbijt = 5.40
+lunch = 9.00
+diner = 14.40
+urencomp = 0.68
+
+[[tarief]]
+land = "Westbank en Gazastrook"
+regio = "Gazastrook"
+logies = 85.00
+ontbijt = 6.84
+lunch = 11.40
+diner = 18.24
+urencomp = 0.86
+
+[[tarief]]
+land = "Westbank en Gazastrook"
+regio = "Jericho"
+logies = 122.00
+ontbijt = 8.64
+lunch = 14.40
+diner = 23.04
+urencomp = 1.08
+
+[[tarief]]
+land = "Westbank en Gazastrook"
+regio = "Overig"
+logies = 91.00
+ontbijt = 8.16
+lunch = 13.60
+diner = 21.76
+urencomp = 1.02
+
+[[tarief]]
+land = "Westelijke Sahara"
+regio = "Laayoune"
+logies = 55.00
+ontbijt = 7.44
+lunch = 12.40
+diner = 19.84
+urencomp = 0.93
+
+[[tarief]]
+land = "Zambia"
+regio = "Lusaka"
+logies = 268.00
+ontbijt = 11.52
+lunch = 19.20
+diner = 30.72
+urencomp = 1.44
+
+[[tarief]]
+land = "Zambia"
+regio = "Overig"
+logies = 301.00
+ontbijt = 8.76
+lunch = 14.60
+diner = 23.36
+urencomp = 1.10
+
+[[tarief]]
+land = "Zimbabwe"
+regio = "Harare"
+logies = 187.00
+ontbijt = 8.40
+lunch = 14.00
+diner = 22.40
+urencomp = 1.05
+
+[[tarief]]
+land = "Zimbabwe"
+regio = "Overig"
+logies = 387.00
+ontbijt = 8.52
+lunch = 14.20
+diner = 22.72
+urencomp = 1.07
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Bloemfontein"
+logies = 77.00
+ontbijt = 6.12
+lunch = 10.20
+diner = 16.32
+urencomp = 0.77
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Durban"
+logies = 146.00
+ontbijt = 7.56
+lunch = 12.60
+diner = 20.16
+urencomp = 0.95
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "East London"
+logies = 93.00
+ontbijt = 5.28
+lunch = 8.80
+diner = 14.08
+urencomp = 0.66
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Johannesburg"
+logies = 146.00
+ontbijt = 6.96
+lunch = 11.60
+diner = 18.56
+urencomp = 0.87
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Johannesburg-Sandton"
+logies = 119.00
+ontbijt = 7.68
+lunch = 12.80
+diner = 20.48
+urencomp = 0.96
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Kaapstad"
+logies = 427.00
+ontbijt = 12.48
+lunch = 20.80
+diner = 33.28
+urencomp = 1.56
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Kimberley"
+logies = 87.00
+ontbijt = 6.72
+lunch = 11.20
+diner = 17.92
+urencomp = 0.84
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Magaliesburg en Muldersdrift"
+logies = 86.00
+ontbijt = 5.64
+lunch = 9.40
+diner = 15.04
+urencomp = 0.71
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Mpumalanga Kruger"
+logies = 98.00
+ontbijt = 5.76
+lunch = 9.60
+diner = 15.36
+urencomp = 0.72
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Musina"
+logies = 73.00
+ontbijt = 5.16
+lunch = 8.60
+diner = 13.76
+urencomp = 0.65
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Nelspruit"
+logies = 79.00
+ontbijt = 4.56
+lunch = 7.60
+diner = 12.16
+urencomp = 0.57
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Overig"
+logies = 66.00
+ontbijt = 4.68
+lunch = 7.80
+diner = 12.48
+urencomp = 0.59
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Pietermaritzburg"
+logies = 137.00
+ontbijt = 6.48
+lunch = 10.80
+diner = 17.28
+urencomp = 0.81
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Polokwane"
+logies = 74.00
+ontbijt = 4.56
+lunch = 7.60
+diner = 12.16
+urencomp = 0.57
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Port Alfred"
+logies = 87.00
+ontbijt = 4.68
+lunch = 7.80
+diner = 12.48
+urencomp = 0.59
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Pretoria"
+logies = 94.00
+ontbijt = 6.12
+lunch = 10.20
+diner = 16.32
+urencomp = 0.77
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Richards Bay"
+logies = 89.00
+ontbijt = 5.04
+lunch = 8.40
+diner = 13.44
+urencomp = 0.63
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Rustenburg"
+logies = 77.00
+ontbijt = 5.16
+lunch = 8.60
+diner = 13.76
+urencomp = 0.65
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Sun City"
+logies = 270.00
+ontbijt = 10.44
+lunch = 17.40
+diner = 27.84
+urencomp = 1.31
+
+[[tarief]]
+land = "Zuid-Afrika"
+regio = "Uppington"
+logies = 72.00
+ontbijt = 6.24
+lunch = 10.40
+diner = 16.64
+urencomp = 0.78
+
+[[tarief]]
+land = "Zuid-Korea"
+regio = "Overig"
+logies = 236.00
+ontbijt = 11.64
+lunch = 19.40
+diner = 31.04
+urencomp = 1.46
+
+[[tarief]]
+land = "Zuid-Korea"
+regio = "Seoul"
+logies = 343.00
+ontbijt = 13.32
+lunch = 22.20
+diner = 35.52
+urencomp = 1.67
+
+[[tarief]]
+land = "Zuid-Soedan"
+regio = "Juba"
+logies = 152.00
+ontbijt = 9.00
+lunch = 15.00
+diner = 24.00
+urencomp = 1.13
+
+[[tarief]]
+land = "Zuid-Soedan"
+regio = "Overig"
+logies = 86.00
+ontbijt = 3.84
+lunch = 6.40
+diner = 10.24
+urencomp = 0.48
+
+[[tarief]]
+land = "Zweden"
+regio = "Overig"
+logies = 160.00
+ontbijt = 12.24
+lunch = 20.40
+diner = 32.64
+urencomp = 1.53
+
+[[tarief]]
+land = "Zweden"
+regio = "Stockholm"
+logies = 340.00
+ontbijt = 20.16
+lunch = 33.60
+diner = 53.76
+urencomp = 2.52
+
+[[tarief]]
+land = "Zwitserland"
+regio = "Zwitserland"
+logies = 224.00
+ontbijt = 19.44
+lunch = 32.40
+diner = 51.84
+urencomp = 2.43
+
