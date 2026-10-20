@@ -41,7 +41,7 @@ uvx verblijfkosten --country Duitsland --nights 3 --logies-cost 420 --costs 137
 | Flag                           | Meaning                                                       |
 |--------------------------------|---------------------------------------------------------------|
 | `--country COUNTRY`            | The country you went to.                                      |
-| `--region REGION`              | The region you went to (see `verblijf.toml`).                 |
+| `--region REGION`              | The region you went to (see [`verblijfkosten-tarieven.toml`](https://github.com/tintin10q/verblijfkosten/blob/main/verblijfkosten-tarieven.toml)).  |
 | `--logies-cost LOGIES_COST`    | Your total accommodation costs.                               |
 | `--costs COSTS`                | Your total other costs (meals and other expenses).            |
 | `--nights NIGHTS`              | How many nights you were away.                                |
