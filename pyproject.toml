@@ -1,6 +1,6 @@
 [project]
 name = "verblijfkosten"
-version = "0.1.0.post1"
+version = "0.1.0.post2"
 description = "Easiliy calculate the optimal number of dinners, lunches, breakfast and hours you need to declare to get your verblijfkosten back."
 readme = "README.md"
 requires-python = ">=3.11"
@@ -14,6 +14,7 @@ license-files = ["LICENSE"]
 
 [project.urls]
 Repository = "https://git.liacs.nl/caboqmj1/verblijfkosten"
+'Source Code' = "https://github.com/tintin10q/verblijfkosten"
 
 [build-system]
 requires = ["hatchling"]
